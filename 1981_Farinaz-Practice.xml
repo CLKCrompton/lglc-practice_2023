@@ -61,18 +61,18 @@
     <body>
       <listEvent n="1981">
         <event xml:id="n81.1">
-          <p> Montréal Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui, a
+          <p> <placeName corresp="places.xml#MON">Montreal</placeName> Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui, a
             one-hour-and-forty-five-minute video made for lesbians only and surveying the state of
             lesbian life in Montréal, was released by Video Amazone. </p>
-          <bibl>“Amazones d’hier, lesbiennes d’aujourd’hui,” Le Berdache, no. 25 (1981), p. 8</bibl>
+          <bibl>“Amazones d’hier, lesbiennes d’aujourd’hui,” <title level="j" corresp="periodical.xml#p175">Le Berdache</title>, no. 25 (1981), p. 8</bibl>
           <bibl> “Amazons Then, Lesbians Now,” Lesbian/Lesbienne, 1, no. 3 (1981): 4.</bibl>
 
         </event>
         <event xml:id="n81.14">
-          <p> Vancouver Scott Watson’s book of stories Platonic Love: Three Tales of Language and
-            Desire was published by New Star Books. </p>
-          <bibl>Don Larventz, “The Fiction of Sexual Truth” (review), Body Politic, no. 78 (1981),
-            p. 33</bibl>
+          <p> <placeName corresp="organizations.xml#VAN">Vancouver</placeName><persName sameAs="people.xml#SWAT">Scott Watson</persName>’s book of stories Platonic Love: Three Tales of Language and
+            Desire was published by <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
+          <bibl><persName sameAs="people.xml#">Don Larventz</persName>, <title level="m">“The Fiction of Sexual Truth” (review)</title>, <title level="j" corresp="periodical.xml#p10">Body Politic</title>, no. 78 (1981),
+            <seg corresp="n81.14">p. 33</seg></bibl>
           <bibl> Don Officer, “Beyond the Point” (review), Books in Canada, January 1982, pp.
             15–16</bibl>
           <bibl> Gerry Oxford, “Platonic Love” (review), Quill &amp; Quire, January 1982, pp.

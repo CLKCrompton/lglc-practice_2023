@@ -84,41 +84,41 @@
 
         </event>
         <event xml:id="n81.30">
-          <p> January 26 Toronto Lynne Lake, the mother of two schoolchildren, reopened debate on
-            sexual orientation bias at the Toronto Board of Education when she made an emotional
-            plea to the schools programs committee. Lake demanded that the trustees rescind a motion
-            passed September 18, 1980, which prohibited “bias on the basis of sex or sexual
+          <p> <date when="1981-01-26">January 26</date> <placeName corresp="places.xml#TOR">Toronto</placeName> <persName sameAs="people.xml#LLAK">Lynne Lake</persName>, the mother of two schoolchildren, reopened debate on
+            sexual orientation bias at the <orgName corresp="organizations.xml#TBE">Toronto Board of Education</orgName> when she made an emotional
+            plea to the schools programs committee. <persName sameAs="people.xml#LLAK">Lake</persName> demanded that the trustees rescind a motion
+            passed <date when="1980-09-18">September 18, 1980</date>, which prohibited “bias on the basis of sex or sexual
             orientation,” and which specifically permitted “discussion of homosexuality” in schools.
-            Lake also claimed that the NDP had been “exploiting the (gay) issue” and that gay
-            activist John Argue, the chairman of the Metro Toronto NDP, had used political pressure
+            <persName sameAs="people.xml#LLAK">Lake</persName> also claimed that the <orgName corresp="organizations.xml#NDP">NDP</orgName> had been “exploiting the (gay) issue” and that gay
+            activist <persName sameAs="people.xml#JARG">John Argue</persName>, the chairman of <orgName corresp="NDP">the Metro Toronto NDP</orgName>, had used political pressure
             to swing the vote in favour of the anti-discrimination motion. After some vigorous
             debate, the issue was referred to a special meeting of the full board of education to be
-            held February 23, 1981. (See also February 23, 1981.) </p>
-          <bibl>Rick Brennan, “No Homosexual Lesson for Her Kids,” Toronto Star, four star ed., 17
-            February 1981, p. C18</bibl>
-          <bibl> Virginia Corner, “Homosexual Issue Revived by Mom’s Ire,” Toronto Star, four star
-            ed., 27 January 1981, p. A3</bibl>
-          <bibl> Bruce A. McLeod, “Mom Battles Board Over Stand on Gays,” Toronto Sun, 17 February
-            1981, p. 18</bibl>
-          <bibl> Roger Spalding, “Mother’s Plea to School Board Reopens Debate on Ban on Bias,” Body
-            Politic, no. 71 (1981), p. 13.</bibl>
+            held <date when="1981-02-23">February 23, 1981</date>. (See also <date when="1981-02-23">February 23, 1981</date>.) </p>
+          <bibl><persName sameAs="people.xml#RBRE">Rick Brennan</persName>, <title level="a">“No Homosexual Lesson for Her Kids,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed., <date when="1981-02-17">17
+            February 1981</date>, p. C18</bibl>
+          <bibl> <persName sameAs="people.xml#VCOR">Virginia Corner</persName>, <title level="a">“Homosexual Issue Revived by Mom’s Ire,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star
+            ed., <date when="1981-01-27">27 January 1981</date>, p. A3</bibl>
+          <bibl> <persName sameAs="people.xml#BMCL">Bruce A. McLeod</persName>, <title level="a">“Mom Battles Board Over Stand on Gays,”</title> <title level="j" corresp="periodicals.xml#p168">Toronto Sun</title>, <date when="1981-02-17">17 February
+            1981</date>, p. 18</bibl>
+          <bibl> <persName sameAs="RSPA">Roger Spalding</persName>, <title level="a">“Mother’s Plea to School Board Reopens Debate on Ban on Bias,”</title> <title level="j" corresp="periodicals.xml#p10">Body
+            Politic</title>, no. 71 <date when="1981">(1981)</date>, p. 13.</bibl> 
 
         </event>
         <event xml:id="n81.35">
-          <p> January–February Ottawa The Ottawa Children’s Aid Society (CAS) confirmed that it
+          <p> <date from="1981-01" to="1981-02">January–February</date> <orgName corresp="organizations.xml#">Ottawa The Ottawa Children’s Aid Society (CAS)</orgName> confirmed that it
             <!-- I'm the greatest --> would consider placing children with homosexual foster
             parents, but only as a last resort. Preference was to be given to placing children in a
-            “normalized setting,” with heterosexual parents. Roger Galipeau, president of GO, called
-            the policy discriminatory and asked CAS to reconsider its position. </p>
-          <bibl>David Garmaise, “Gay Foster Parents a Last Resort: CAS,” Body Politic, no. 71
-            (1981), p. 14.</bibl>
+            “normalized setting,” with heterosexual parents. <persName sameAs="people.xml#RGAL">Roger Galipeau</persName>, president of <orgName corresp="organizations.xml#GO">GO</orgName>, called
+            the policy discriminatory and asked <orgName corresp="organizations.xml#">CAS</orgName> to reconsider its position. </p>
+          <bibl><persName sameAs="people.xml#DGAR">David Garmaise</persName>, <title level="a">“Gay Foster Parents a Last Resort: CAS,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 71
+            <date when="1981">(1981)</date>, p. 14.</bibl>
 
         </event>
         <event xml:id="n81.71">
-          <p> February 23 Toronto Three weeks of public hearings on Bill 209, an Act to Amend the
-            Ontario Human Rights Code, were slated to begin before the Social Development Committee
-            of the Ontario Legislature. </p>
-          <bibl>Chris Bearchell, “Strange Bedfellows?” Body Politic, no. 70 (1981), pp.
+          <p> <date when="1981-02-23">February 23</date> <placeName corresp="places.xml#TOR">Toronto</placeName> Three weeks of public hearings on <title level="m">Bill 209, an Act to Amend the
+            Ontario Human Rights Code</title>, were slated to begin before <orgName corresp="organizations.xml#">the Social Development Committee
+              of the Ontario Legislature.</orgName></p>
+          <bibl><persName sameAs="people.xml#CBEA">Chris Bearchell</persName>, <title level="a">“Strange Bedfellows?”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 70 <date when="1981">(1981)</date>, pp.
             10–11.</bibl>
 
         </event>

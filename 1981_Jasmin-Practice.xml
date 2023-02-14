@@ -93,7 +93,7 @@
             activist <persName sameAs="people.xml#JARG">John Argue</persName>, the chairman of <orgName corresp="NDP">the Metro Toronto NDP</orgName>, had used political pressure
             to swing the vote in favour of the anti-discrimination motion. After some vigorous
             debate, the issue was referred to a special meeting of the full board of education to be
-            held <date when="1981-02-23">February 23, 1981</date>. (See also <date when="1981-02-23">February 23, 1981</date>.) </p>
+            held <date when="1981-02-23">February 23, 1981</date>. <seg corresp"#n81.72">(See also <date when="1981-02-23">February 23, 1981</date>.)</seg> </p>
           <bibl><persName sameAs="people.xml#RBRE">Rick Brennan</persName>, <title level="a">“No Homosexual Lesson for Her Kids,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed., <date when="1981-02-17">17
             February 1981</date>, p. C18</bibl>
           <bibl> <persName sameAs="people.xml#VCOR">Virginia Corner</persName>, <title level="a">“Homosexual Issue Revived by Mom’s Ire,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star
@@ -116,14 +116,14 @@
         </event>
         <event xml:id="n81.71">
           <p> <date when="1981-02-23">February 23</date> <placeName corresp="places.xml#TOR">Toronto</placeName> Three weeks of public hearings on <title level="m">Bill 209, an Act to Amend the
-            Ontario Human Rights Code</title>, were slated to begin before <orgName corresp="organizations.xml#">the Social Development Committee
+            Ontario Human Rights Code</title>, were slated to begin before <placeName corresp="places.xml#QP">the Social Development Committee
               of the Ontario Legislature.</orgName></p>
           <bibl><persName sameAs="people.xml#CBEA">Chris Bearchell</persName>, <title level="a">“Strange Bedfellows?”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 70 <date when="1981">(1981)</date>, pp.
             10–11.</bibl>
 
         </event>
         <event xml:id="n81.72">
-          <p> <date when"1981-02-23">February 23</date> Toronto The Toronto Board of Education overturned two resolutions to ban
+          <p> <date when"1981-02-23">February 23</date> <placeName corresp="places.xml#TOR">Toronto</placeName> The Toronto Board of Education overturned two resolutions to ban
             discrimination against gays it had instituted in September 1980, by a vote of fourteen
             to twelve, and replaced them with more conservative ones. Thirty-eight speakers
             addressed the full board meeting, which lasted more than seven hours. The trustees voted

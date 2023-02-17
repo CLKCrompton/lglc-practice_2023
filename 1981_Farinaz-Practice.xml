@@ -105,7 +105,7 @@
 
         </event>
         <event xml:id="n81.35">
-          <p> January–February Ottawa The Ottawa Children’s Aid Society (CAS) confirmed that it
+          <p> <date from="1981-01" to="1981-02">January–February</date> <placeName corresp="places.xml#OTT">Ottawa</placeName> The Ottawa Children’s Aid Society (CAS) confirmed that it
             <!-- I'm the greatest --> would consider placing children with homosexual foster
             parents, but only as a last resort. Preference was to be given to placing children in a
             “normalized setting,” with heterosexual parents. Roger Galipeau, president of GO, called

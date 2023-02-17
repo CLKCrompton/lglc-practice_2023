@@ -94,14 +94,14 @@
             to swing the vote in favour of the anti-discrimination motion. After some vigorous
             debate, the issue was referred to a special meeting of the full board of education to be
             held <date when="1981-02-23">February 23, 1981</date>. (See also <seg corresp="n81.72"></seg> February 23, 1981.) </p>
-          <bibl>Rick Brennan, “No Homosexual Lesson for Her Kids,” Toronto Star, four star ed., 17
-            February 1981, p. C18</bibl>
-          <bibl> Virginia Corner, “Homosexual Issue Revived by Mom’s Ire,” Toronto Star, four star
-            ed., 27 January 1981, p. A3</bibl>
-          <bibl> Bruce A. McLeod, “Mom Battles Board Over Stand on Gays,” Toronto Sun, 17 February
-            1981, p. 18</bibl>
-          <bibl> Roger Spalding, “Mother’s Plea to School Board Reopens Debate on Ban on Bias,” Body
-            Politic, no. 71 (1981), p. 13.</bibl>
+          <bibl>,<persName sameAs="RBRE">Rick Brennan</persName>, <title level="m">“No Homosexual Lesson for Her Kids,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed., 17
+            <date when="1981-02">February 1981</date>, p. C18</bibl>
+          <bibl> <persName sameAs="people.xml#VCOR">Virginia Corner</persName>, <title level="m">“Homosexual Issue Revived by Mom’s Ire,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star
+            ed., <date when="1981-01-27">27 January 1981</date>, p. A3</bibl>
+          <bibl> <persName sameAs="people.xml#BMCL">Bruce A. McLeod,</persName> <title level="m">“Mom Battles Board Over Stand on Gays,”</title> <title level="j" corresp="periodicals.xml#p168">Toronto Sun</title>, <date when="1981-02-17">17 February
+            1981</date>, p. 18</bibl>
+          <bibl> <persName sameAs="people.xml#RSPA">Roger Spalding</persName>, <title level="m">"Mother’s Plea to School Board Reopens Debate on Ban on Bias,”</title> <title level="j" corresp="periodicals.xml#p10">Body
+            Politic</title>, no. 71 <date when="1981">(1981)</date>, p. 13.</bibl>
 
         </event>
         <event xml:id="n81.35">

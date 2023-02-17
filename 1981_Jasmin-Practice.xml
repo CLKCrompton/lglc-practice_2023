@@ -93,7 +93,7 @@
             activist <persName sameAs="people.xml#JARG">John Argue</persName>, the chairman of <orgName corresp="NDP">the Metro Toronto NDP</orgName>, had used political pressure
             to swing the vote in favour of the anti-discrimination motion. After some vigorous
             debate, the issue was referred to a special meeting of the full board of education to be
-            held <date when="1981-02-23">February 23, 1981</date>. <seg corresp"#n81.72">(See also <date when="1981-02-23">February 23, 1981</date>.)</seg> </p>
+            held <date when="1981-02-23">February 23, 1981</date>. <seg corresp="#n81.72">(See also <date when="1981-02-23">February 23, 1981</date>.)</seg> </p>
           <bibl><persName sameAs="people.xml#RBRE">Rick Brennan</persName>, <title level="a">“No Homosexual Lesson for Her Kids,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed., <date when="1981-02-17">17
             February 1981</date>, p. C18</bibl>
           <bibl> <persName sameAs="people.xml#VCOR">Virginia Corner</persName>, <title level="a">“Homosexual Issue Revived by Mom’s Ire,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star
@@ -117,37 +117,37 @@
         <event xml:id="n81.71">
           <p> <date when="1981-02-23">February 23</date> <placeName corresp="places.xml#TOR">Toronto</placeName> Three weeks of public hearings on <title level="m">Bill 209, an Act to Amend the
             Ontario Human Rights Code</title>, were slated to begin before <placeName corresp="places.xml#QP">the Social Development Committee
-              of the Ontario Legislature.</orgName></p>
+              of the Ontario Legislature.</placeName></p>
           <bibl><persName sameAs="people.xml#CBEA">Chris Bearchell</persName>, <title level="a">“Strange Bedfellows?”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 70 <date when="1981">(1981)</date>, pp.
             10–11.</bibl>
 
         </event>
         <event xml:id="n81.72">
-          <p> <date when"1981-02-23">February 23</date> <placeName corresp="places.xml#TOR">Toronto</placeName> The Toronto Board of Education overturned two resolutions to ban
-            discrimination against gays it had instituted in September 1980, by a vote of fourteen
+          <p> <date when="1981-02-23">February 23</date> <placeName corresp="places.xml#TOR">Toronto</placeName> <orgName corresp="organizations.xml#TBE">The Toronto Board of Education</orgName> overturned two resolutions to ban
+            discrimination against gays it had instituted in <date when="1980-09">September 1980</date>, by a vote of fourteen
             to twelve, and replaced them with more conservative ones. Thirty-eight speakers
             addressed the full board meeting, which lasted more than seven hours. The trustees voted
             twenty-two to four to outlaw discrimination against gays in the board’s employment
             practices only, and also agreed to allow discussion of homosexuality in schools but only
             under strict guidelines, “when conducted by teachers and appropriate board staff as (the
             topic) arises out of curriculum.” </p>
-          <bibl>Merylie Houston, “A Parent Speaks Out: The Gay Issue at the Board: The Latest
-            Round,” Mudpie (Toronto), 2, no. 3 (March 1981): 2</bibl>
-          <bibl> “Pros and Cons Clash over Gays in Classroom: Education Board Debate,” Toronto Sun,
-            24 February 1981, p. 31</bibl>
-          <bibl> Roger Spalding, “Toronto Board Limits Gay Rights Policy,” Body Politic, no. 72
-            (1981), p. 14</bibl>
-          <bibl> Allan Sparrow, “Sexual Orientation: 2 Battles Won. Board of Education Re-affirms
-            Stand Opposing Discrimination on the Basis of Sexual Orientation,” Ward 6 News
-            (Toronto), March 1981, p. 5</bibl>
-          <bibl> “Toronto Enrolment Drop Predicted over Homosexuals,” Toronto Star, four star ed.,
-            25 February 1981, p. A5</bibl>
-          <bibl> Julia Turner, “Board Hears All Views on Homosexual Issue,” Globe and Mail, metro
-            ed., 24 February 1981, p. 19</bibl>
-          <bibl> Julia Turner, “Gay Rights Are Upheld by Board,” Globe and Mail, metro ed., 25
-            February 1981, p. 5</bibl>
-          <bibl> David Vienneau, “Trustees Spurn, Back Homosexuals,” Toronto Star, four star ed., 24
-            February 1981, pp. A1, A7.</bibl>
+          <bibl><persName sameAs="people.xml#MHOU">Merylie Houston</persName>, <title level="a">“A Parent Speaks Out: The Gay Issue at the Board: The Latest
+            Round,”</title> <title level="j" corresp="periodicals.xml#">Mudpie</title> <placeName corresp="places.xml#TOR">(Toronto)</placeName>, 2, no. 3 <date when="1981-03">(March 1981)</date>: 2</bibl>
+          <bibl> <title level="a">“Pros and Cons Clash over Gays in Classroom: Education Board Debate,”</title> <title level="j" corresp="periodicals.xml#p168">Toronto Sun</title>,
+            <date when="1981-02-24">24 February 1981</date>, p. 31</bibl>
+          <bibl> <persName sameAs="people.xml#RSPA">Roger Spalding</persName>, <title level="a">“Toronto Board Limits Gay Rights Policy,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 72
+            <date when="1981">(1981)</date>, p. 14</bibl>
+          <bibl> <persName sameAs="people.xml#ASPA">Allan Sparrow</persName>, <title level="a">“Sexual Orientation: 2 Battles Won. Board of Education Re-affirms
+            Stand Opposing Discrimination on the Basis of Sexual Orientation,”</title> <title level="j" corresp="periodicals.xml#p689">Ward 6 Newstitle</title>
+            <placeName corresp="places.xml#TOR">(Toronto)</placeName>, <date when="1981-03">March 1981</date>, p. 5</bibl>
+          <bibl> <title level="a">“Toronto Enrolment Drop Predicted over Homosexuals,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed.,
+            <date when="1981-02-25">25 February 1981</date>, p. A5</bibl>
+          <bibl> <persName sameAs="people.xml#JTUR">Julia Turner</persName>, <title level="a">“Board Hears All Views on Homosexual Issue,”</title> <title level="j" corresp="periodicals.xml#p105">Globe and Mail</title>, metro
+            ed., <date when="1981-02-24">24 February 1981</date>, p. 19</bibl>
+          <bibl> <persName sameAs="people.xml#JTUR">Julia Turner</persName>, <title level="a">“Gay Rights Are Upheld by Board,”</title> <title level="j" corresp="periodicals.xml#p105">Globe and Mail</title>, metro ed.,
+            <date when="1981-02-25">25 February 1981</date>, p. 5</bibl>
+          <bibl> <persName sameAs="people.xml#DVIE">David Vienneau</persName>, <title level="a">“Trustees Spurn, Back Homosexuals,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed.,
+            <date when="1981-02-24">24 February 1981</date>, pp. A1, A7.</bibl>
 
         </event>
         <event xml:id="n81.128">

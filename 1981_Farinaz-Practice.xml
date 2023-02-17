@@ -105,13 +105,13 @@
 
         </event>
         <event xml:id="n81.35">
-          <p> <date from="1981-01" to="1981-02">January–February</date> <placeName corresp="places.xml#OTT">Ottawa</placeName> The Ottawa Children’s Aid Society (CAS) confirmed that it
+          <p> <date from="1981-01" to="1981-02">January–February</date> <placeName corresp="places.xml#OTT">Ottawa</placeName> The Ottawa Children’s Aid Society (CAS)confirmed that it
             <!-- I'm the greatest --> would consider placing children with homosexual foster
             parents, but only as a last resort. Preference was to be given to placing children in a
-            “normalized setting,” with heterosexual parents. Roger Galipeau, president of GO, called
+            “normalized setting,” with heterosexual parents. <persName sameAs="people.xml#RGAL">Roger Galipeau</persName>, president of <orgName corresp="organizations.xml#GO">GO</orgName>, called
             the policy discriminatory and asked CAS to reconsider its position. </p>
-          <bibl>David Garmaise, “Gay Foster Parents a Last Resort: CAS,” Body Politic, no. 71
-            (1981), p. 14.</bibl>
+          <bibl><persName sameAs="people.xml#DGAR">David Garmaise</persName>, <title level="m">“Gay Foster Parents a Last Resort: CAS,”</title> <title level="j" corresp="periodical.xml#p10">Body Politic</title>, no. 71
+            <date when="1981">(1981)</date>, p. 14.</bibl>
 
         </event>
         <event xml:id="n81.71">

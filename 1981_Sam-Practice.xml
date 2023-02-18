@@ -71,10 +71,10 @@
         <event xml:id="n81.14">
           <p> <placeName corresp="places.xml#NVAN">Vancouver</placeName> <persName corresp="people.xml#SWAT">Scott Watson</persName>’s book of stories <title level="m">Platonic Love: Three Tales of Language and
             Desire</title> was published by <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
-          <bibl><persName corresp="people.xml#">Don Larventz</persName>, “The Fiction of Sexual Truth” (review), Body Politic, no. 78 (1981),
-            p. 33</bibl>
-          <bibl> Don Officer, “Beyond the Point” (review), Books in Canada, January 1982, pp.
-            15–16</bibl>
+          <bibl><persName corresp="people.xml#">Don Larventz</persName>, <title level="a">“The Fiction of Sexual Truth”</title> (review), <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 78 (1981),
+            <seg>p. 33</seg></bibl>
+          <bibl> <persName corresp="people.xml#DOFF">Don Officer</persName>, <title level="m">“Beyond the Point”</title> (review), <orgName corresp="organizations.xml#BIC">Books in Canada</orgName>, January 1982, <seg>pp.
+            15–16</seg></bibl>
           <bibl> Gerry Oxford, “Platonic Love” (review), Quill &amp; Quire, January 1982, pp.
             31–32</bibl>
           <bibl> Simon Ruddell, “Street Life” (review), Canadian Literature, no. 95 (1982), pp.

@@ -6162,10 +6162,9 @@
                 <org xml:id="VA"> 
                     <!--  SL -->
                 <orgName>Video Amazone</orgName></org>
-                <org xml:id="BIC"> 
-                    <!--  SL -->
-                    <orgName>Books in Canada</orgName>
-                </org>
+                <org xml:id="MTNDP"><!--  SL -->
+                    <orgName>Metro Toronto NDP</orgName>
+                    </org>
 
 
 

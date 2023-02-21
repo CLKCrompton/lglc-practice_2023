@@ -61,26 +61,26 @@
     <body>
       <listEvent n="1981">
         <event xml:id="n81.1">
-          <p> Montréal Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui, a
+          <p> <placeName corresp="places.xml#MON">Montréal</placeName> <title level="a">Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui</title>, a
             one-hour-and-forty-five-minute video made for lesbians only and surveying the state of
-            lesbian life in Montréal, was released by Video Amazone. </p>
-          <bibl>“Amazones d’hier, lesbiennes d’aujourd’hui,” Le Berdache, no. 25 (1981), p. 8</bibl>
-          <bibl> “Amazons Then, Lesbians Now,” Lesbian/Lesbienne, 1, no. 3 (1981): 4.</bibl>
+            lesbian life in <placeName corresp="places.xml#MON">Montréal</placeName>, was released by <orgName corresp="organizations.xml#">Video Amazone</orgName>. </p>
+          <bibl><title level="a">“Amazones d’hier, lesbiennes d’aujourd’hui,”</title> <persName sameAs="people.xml#LEB">Le Berdache</persName>, no. 25 <date when="1981">(1981)</date>, p. 8</bibl>
+          <bibl> <title level="a">“Amazons Then, Lesbians Now,”</title> <title level="j" corresp="periodicals.xml#p302">Lesbian/Lesbienne</title>, 1, no. 3 <date when="1981">(1981)</date>: 4.</bibl>
 
         </event>
         <event xml:id="n81.14">
-          <p> Vancouver Scott Watson’s book of stories Platonic Love: Three Tales of Language and
-            Desire was published by New Star Books. </p>
-          <bibl>Don Larventz, “The Fiction of Sexual Truth” (review), Body Politic, no. 78 (1981),
+          <p> <placeName corresp="places.xml#VAN">Vancouver</placeName> <persName sameAs="people.xmlSWAT">Scott Watson</persName>’s book of stories <title level="m">Platonic Love: Three Tales of Language and
+            Desire</title> was published by <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
+          <bibl><persName sameAs="people.xml#DLAR">Don Larventz</persName>, <title level="a">“The Fiction of Sexual Truth”</title> (review), <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 78 <date when="1981">(1981)</date>,
             p. 33</bibl>
-          <bibl> Don Officer, “Beyond the Point” (review), Books in Canada, January 1982, pp.
+          <bibl> <persName sameAs="people.xml#DOFF">Don Officer</persName>, <title level="a">“Beyond the Point”</title> (review), <title level="j" corresp="periodicals.xml#p157">Books in Canada</title>, <date when="1982-01">January 1982</date>, pp.
             15–16</bibl>
-          <bibl> Gerry Oxford, “Platonic Love” (review), Quill &amp; Quire, January 1982, pp.
+          <bibl> <persName sameAs="people.xml#GOXF">Gerry Oxford</persName>, <title level="a">“Platonic Love”</title> (review), <title level="j" corresp="periodicals.xml#p237">Quill &amp; Quire</title>, <date when="1982-01">January 1982</date>, pp.
             31–32</bibl>
-          <bibl> Simon Ruddell, “Street Life” (review), Canadian Literature, no. 95 (1982), pp.
+          <bibl> <persName sameAs="people.xml#SRUDD">Simon Ruddell</persName>, <title level="a">“Street Life”</title> (review), <title level="j" corresp="periodicals.xml#p109">Canadian Literature</title>, no. 95 <date when="1982">(1982)</date>, pp.
             143–44</bibl>
-          <bibl> Ian Young, The Male Homosexual in Literature: A Bibliography, second ed. (Metuchen,
-            N.J.: Scarecrow Press, 1982), entry 4013.</bibl>
+          <bibl> <persName sameAs="people.xml#IYOU">Ian Young</persName>, <title level="m">The Male Homosexual in Literature: A Bibliography</title>, second ed. (<placeName corresp="places.xml#NJ">Metuchen,
+            N.J.</placeName>: <orgName corresp="organizations.xml#SP">Scarecrow Press</orgName>, <date when="1982">1982</date>), entry 4013.</bibl>
 
         </event>
         <event xml:id="n81.30">
@@ -93,7 +93,7 @@
             activist <persName sameAs="people.xml#JARG">John Argue</persName>, the chairman of <orgName corresp="NDP">the Metro Toronto NDP</orgName>, had used political pressure
             to swing the vote in favour of the anti-discrimination motion. After some vigorous
             debate, the issue was referred to a special meeting of the full board of education to be
-            held <date when="1981-02-23">February 23, 1981</date>. (See also <date when="1981-02-23">February 23, 1981</date>.) </p>
+            held <date when="1981-02-23">February 23, 1981</date>. <seg corresp="#n81.72">(See also <date when="1981-02-23">February 23, 1981</date>.)</seg> </p>
           <bibl><persName sameAs="people.xml#RBRE">Rick Brennan</persName>, <title level="a">“No Homosexual Lesson for Her Kids,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed., <date when="1981-02-17">17
             February 1981</date>, p. C18</bibl>
           <bibl> <persName sameAs="people.xml#VCOR">Virginia Corner</persName>, <title level="a">“Homosexual Issue Revived by Mom’s Ire,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star
@@ -116,8 +116,8 @@
         </event>
         <event xml:id="n81.71">
           <p> <date when="1981-02-23">February 23</date> <placeName corresp="places.xml#TOR">Toronto</placeName> Three weeks of public hearings on <title level="m">Bill 209, an Act to Amend the
-            Ontario Human Rights Code</title>, were slated to begin before <orgName corresp="organizations.xml#">the Social Development Committee
-              of the Ontario Legislature.</orgName></p>
+            Ontario Human Rights Code</title>, were slated to begin before <placeName corresp="places.xml#QP">the Social Development Committee
+              of the Ontario Legislature.</placeName></p>
           <bibl><persName sameAs="people.xml#CBEA">Chris Bearchell</persName>, <title level="a">“Strange Bedfellows?”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 70 <date when="1981">(1981)</date>, pp.
             10–11.</bibl>
 

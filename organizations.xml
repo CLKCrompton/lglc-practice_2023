@@ -3737,7 +3737,7 @@
                     <orgName notAfter="1981">Toronto Lesbian and Gay Community Council</orgName>
                     <placeName corresp="places.xml#TOR"/>
                 </org>
-                <org xml:id="CCSP">
+                <org xml:id="CC">
                     <!-- SRS proso source:http://www.alantwigg.com/ my source:http://publishing.sfu.ca/read/canadian-institute-for-studies-in-publishing/ -->
                     <orgName from="1987">Canadian Centre for Studies in Publishing</orgName>
                     <placeName corresp="places.xml#SFU"/>

@@ -66,25 +66,37 @@
             Now/Amazones d’hier, lesbiennes d’aujourd’hui, a one-hour-and-forty-five-minute video
             made for lesbians only and surveying the state of lesbian life in Montréal, was released
             by Video Amazone. </p>
-          <bibl><title level="a">“Amazones d’hier, lesbiennes d’aujourd’hui,”</title> <title level="j">Le Berdache</title>, no. 25 (1981), <seg corresp="#n81.1">p. 8</seg></bibl>
-          <bibl> <title level="a">“Amazons Then, Lesbians Now,”</title> <title level="j">Lesbian/Lesbienne</title>, 1, no. 3 (1981): 4.</bibl>
+          <bibl><title level="a">“Amazones d’hier, lesbiennes d’aujourd’hui,”</title>
+            <title level="j">Le Berdache</title>, no. 25 (1981), <seg corresp="#n81.1">p.
+            8</seg></bibl>
+          <bibl>
+            <title level="a">“Amazons Then, Lesbians Now,”</title>
+            <title level="j">Lesbian/Lesbienne</title>, 1, no. 3 (1981): 4.</bibl>
 
         </event>
         <event xml:id="n81.14">
           <p>
-            <placeName corresp="place.xml#NVAN"> Vancouver </placeName> <persName sameAs="people.xml#SWAT">Scott Watson</persName>’s book of
-            stories <title level="m">Platonic Love: Three Tales of Language and Desire</title> was published by <orgName corresp="organizations.xml#NSB">New Star
-            Books</orgName>. </p>
-          <bibl>  <title level="a">“The Fiction of Sexual Truth”</title> (review), <title level="j">Body Politic</title>, no. 78 (1981),
-            p. 33</bibl>
-          <bibl> <persName sameAs="people.xml#DOFF">Don Officer</persName>, “<title level="a">Beyond the Point” </title>(review), <title level="m">Books in Canada</title>, January 1982, <seg corresp="#n81.14">pp.
-            15–16</seg></bibl>
-          <bibl> Gerry Oxford, <title level="a">“Platonic Love” </title>(review), Quill &amp; Quire <!-- is it a title? -->, January 1982, <seg corresp="#n81.14">pp.
-            31–32</seg></bibl>
-          <bibl> <persName sameAs="people.xml#SRUD">Simon Ruddell</persName>, <title level="a">“Street Life”</title> (review), Canadian Literature, no. 95 (1982), pp.
-            <seg corresp="#n81.14">143–44</seg></bibl>
-          <bibl> <persName sameAs="people.xml#IYOU">Ian Young</persName>, <title level="m">The Male Homosexual in Literature: A Bibliography</title>, second ed. (Metuchen,
-            N.J.: Scarecrow Press, 1982), entry 4013.</bibl>
+            <placeName corresp="place.xml#NVAN"> Vancouver </placeName>
+            <persName sameAs="people.xml#SWAT">Scott Watson</persName>’s book of stories <title
+              level="m">Platonic Love: Three Tales of Language and Desire</title> was published by
+              <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
+          <bibl>
+            <title level="a">“The Fiction of Sexual Truth”</title> (review), <title level="j">Body
+              Politic</title>, no. 78 (1981), p. 33</bibl>
+          <bibl>
+            <persName sameAs="people.xml#DOFF">Don Officer</persName>, “<title level="a">Beyond the
+              Point” </title>(review), <title level="m">Books in Canada</title>, January 1982, <seg
+              corresp="#n81.14">pp. 15–16</seg></bibl>
+          <bibl> Gerry Oxford, <title level="a">“Platonic Love” </title>(review), Quill &amp; Quire
+            <!-- is it a title? -->, January 1982, <seg corresp="#n81.14">pp. 31–32</seg></bibl>
+          <bibl>
+            <persName sameAs="people.xml#SRUD">Simon Ruddell</persName>, <title level="a">“Street
+              Life”</title> (review), Canadian Literature, no. 95 (1982), pp. <seg corresp="#n81.14"
+              >143–44</seg></bibl>
+          <bibl>
+            <persName sameAs="people.xml#IYOU">Ian Young</persName>, <title level="m">The Male
+              Homosexual in Literature: A Bibliography</title>, second ed. (Metuchen, N.J.:
+            Scarecrow Press, 1982), entry 4013.</bibl>
 
         </event>
         <event xml:id="n81.30">
@@ -112,11 +124,12 @@
 
         </event>
         <event xml:id="n81.35">
-          <p> January–February <placeName corresp="places.xml#OTT">Ottawa</placeName> The Ottawa Children’s Aid Society (CAS) confirmed that it
-            <!-- I'm the greatest --> would consider placing children with homosexual foster
-            parents, but only as a last resort. Preference was to be given to placing children in a
-            “normalized setting,” with heterosexual parents. Roger Galipeau, president of GO, called
-            the policy discriminatory and asked CAS to reconsider its position. </p>
+          <p> January–February <placeName corresp="places.xml#OTT">Ottawa</placeName> The Ottawa
+            Children’s Aid Society (CAS) confirmed that it <!-- I'm the greatest --> would consider
+            placing children with homosexual foster parents, but only as a last resort. Preference
+            was to be given to placing children in a “normalized setting,” with heterosexual
+            parents. Roger Galipeau, president of GO, called the policy discriminatory and asked CAS
+            to reconsider its position. </p>
           <bibl>David Garmaise, “Gay Foster Parents a Last Resort: CAS,” Body Politic, no. 71
             (1981), p. 14.</bibl>
 

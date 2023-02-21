@@ -75,15 +75,15 @@
             <placeName corresp="place.xml#NVAN"> Vancouver </placeName> <persName sameAs="people.xml#SWAT">Scott Watson</persName>’s book of
             stories <title level="m">Platonic Love: Three Tales of Language and Desire</title> was published by <orgName corresp="organizations.xml#NSB">New Star
             Books</orgName>. </p>
-          <bibl>  “The Fiction of Sexual Truth” (review), Body Politic, no. 78 (1981),
+          <bibl>  <title level="a">“The Fiction of Sexual Truth”</title> (review), <title level="j">Body Politic</title>, no. 78 (1981),
             p. 33</bibl>
-          <bibl> Don Officer, “Beyond the Point” (review), Books in Canada, January 1982, pp.
-            15–16</bibl>
-          <bibl> Gerry Oxford, “Platonic Love” (review), Quill &amp; Quire, January 1982, pp.
-            31–32</bibl>
-          <bibl> Simon Ruddell, “Street Life” (review), Canadian Literature, no. 95 (1982), pp.
-            143–44</bibl>
-          <bibl> Ian Young, The Male Homosexual in Literature: A Bibliography, second ed. (Metuchen,
+          <bibl> <persName sameAs="people.xml#DOFF">Don Officer</persName>, “<title level="a">Beyond the Point” </title>(review), <title level="m">Books in Canada</title>, January 1982, <seg corresp="#n81.14">pp.
+            15–16</seg></bibl>
+          <bibl> Gerry Oxford, <title level="a">“Platonic Love” </title>(review), Quill &amp; Quire <!-- is it a title? -->, January 1982, <seg corresp="#n81.14">pp.
+            31–32</seg></bibl>
+          <bibl> <persName sameAs="people.xml#SRUD">Simon Ruddell</persName>, <title level="a">“Street Life”</title> (review), Canadian Literature, no. 95 (1982), pp.
+            <seg corresp="#n81.14">143–44</seg></bibl>
+          <bibl> <persName sameAs="people.xml#IYOU">Ian Young</persName>, <title level="m">The Male Homosexual in Literature: A Bibliography</title>, second ed. (Metuchen,
             N.J.: Scarecrow Press, 1982), entry 4013.</bibl>
 
         </event>

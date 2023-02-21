@@ -6159,6 +6159,12 @@
                     <orgName from="1959">UBC Faculty Club</orgName>
                     <placeName corresp="places.xml#UBC"/>
                 </org>
+                <org xml:id="VA"> 
+                    <!--  SL -->
+                <orgName>Video Amazone</orgName></org>
+                <org xml:id="MTNDP"><!--  SL -->
+                    <orgName>Metro Toronto NDP</orgName>
+                    </org>
 
 
 

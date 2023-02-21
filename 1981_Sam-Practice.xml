@@ -61,39 +61,39 @@
     <body>
       <listEvent n="1981">
         <event xml:id="n81.1">
-          <p> Montréal Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui, a
+          <p> <placeName corresp="places.xml#MON">Montréal</placeName> Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui, a
             one-hour-and-forty-five-minute video made for lesbians only and surveying the state of
-            lesbian life in Montréal, was released by Video Amazone. </p>
-          <bibl>“Amazones d’hier, lesbiennes d’aujourd’hui,” Le Berdache, no. 25 (1981), p. 8</bibl>
-          <bibl> “Amazons Then, Lesbians Now,” Lesbian/Lesbienne, 1, no. 3 (1981): 4.</bibl>
+            lesbian life in Montréal, was released by <orgName corresp="organizations.xml#VA">Video Amazone</orgName>. </p>
+          <bibl><title level="a">“Amazones d’hier, lesbiennes d’aujourd’hui,”</title> <title level="j">Le Berdache</title>, no. 25 (1981), <seg corresp="#n81.1">p. 8</seg></bibl>
+          <bibl> <title level="a">“Amazons Then, Lesbians Now,”</title> <title level="j">Lesbian/Lesbienne</title>, 1, no. 3 (1981): <seg corresp="#n81.1">4</seg>.</bibl>
 
         </event>
         <event xml:id="n81.14">
-          <p> Vancouver Scott Watson’s book of stories Platonic Love: Three Tales of Language and
-            Desire was published by New Star Books. </p>
-          <bibl>Don Larventz, “The Fiction of Sexual Truth” (review), Body Politic, no. 78 (1981),
-            p. 33</bibl>
-          <bibl> Don Officer, “Beyond the Point” (review), Books in Canada, January 1982, pp.
-            15–16</bibl>
-          <bibl> Gerry Oxford, “Platonic Love” (review), Quill &amp; Quire, January 1982, pp.
-            31–32</bibl>
-          <bibl> Simon Ruddell, “Street Life” (review), Canadian Literature, no. 95 (1982), pp.
-            143–44</bibl>
-          <bibl> Ian Young, The Male Homosexual in Literature: A Bibliography, second ed. (Metuchen,
-            N.J.: Scarecrow Press, 1982), entry 4013.</bibl>
-
+          <p> <placeName corresp="places.xml#NVAN">Vancouver</placeName> <persName corresp="people.xml#SWAT">Scott Watson</persName>’s book of stories <title level="m">Platonic Love: Three Tales of Language and
+            Desire</title> was published by <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
+          <bibl><persName corresp="people.xml#">Don Larventz</persName>, <title level="a">“The Fiction of Sexual Truth”</title> (review), <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 78 (1981),
+            <seg>p. 33</seg></bibl>
+          <bibl> <persName corresp="people.xml#DOFF">Don Officer</persName>, <title level="m">“Beyond the Point”</title> (review), <title level="j" corresp="periodicals.xml#p157">Books in Canada</title>, January 1982, <seg>pp.
+            15–16</seg></bibl>
+          <bibl> <persName corresp="people.xml#GOXF">Gerry Oxford</persName>, <title level="j">“Platonic Love”</title> (review), <title level="j" corresp="periodicals.xml#p237">Quill &amp; Quire</title>, January 1982, <seg>pp.
+            31–32</seg></bibl>
+          <bibl> <persName corresp="people.xml#SRUD">Simon Ruddell</persName>, <title level="j">“Street Life”</title> (review), <title level="j" corresp="periodicals.xml#p109">Canadian Literature</title>, no. 95 (1982), <seg>pp.
+            143–44</seg></bibl>
+          <bibl> <persName corresp="people.xml#IYOU">Ian Young</persName>, <title level="m">The Male Homosexual in Literature: A Bibliography, second ed.</title> (Metuchen,
+            N.J.: Scarecrow Press, 1982), <seg>entry 4013</seg>.</bibl>
+          <!-- What is the best way to know j vs m for title level -->
         </event>
         <event xml:id="n81.30">
-          <p> January 26 Toronto Lynne Lake, the mother of two schoolchildren, reopened debate on
-            sexual orientation bias at the Toronto Board of Education when she made an emotional
+          <p> <date when="1981-01-26">January 26</date> <placeName corresp="places.xml#TOR">Toronto</placeName> <persName corresp="people.xml#LLAK">Lynne Lake</persName>, the mother of two schoolchildren, reopened debate on
+            sexual orientation bias at the <orgName corresp="organizations.xml#TBE">Toronto Board of Education</orgName> when she made an emotional
             plea to the schools programs committee. Lake demanded that the trustees rescind a motion
-            passed September 18, 1980, which prohibited “bias on the basis of sex or sexual
+            passed <date when="1980-09-18">September 18, 1980</date>, which prohibited “bias on the basis of sex or sexual
             orientation,” and which specifically permitted “discussion of homosexuality” in schools.
-            Lake also claimed that the NDP had been “exploiting the (gay) issue” and that gay
-            activist John Argue, the chairman of the Metro Toronto NDP, had used political pressure
+            Lake also claimed that the <orgName corresp="organizations.xml#NDP">NDP</orgName> had been “exploiting the (gay) issue” and that gay
+            activist <persName corresp="people.xml#JARG">John Argue</persName>, the chairman of the <orgName corresp="organizations.xml#MTNDP">Metro Toronto NDP</orgName>, had used political pressure
             to swing the vote in favour of the anti-discrimination motion. After some vigorous
             debate, the issue was referred to a special meeting of the full board of education to be
-            held February 23, 1981. (See also February 23, 1981.) </p>
+            held <date when="1981-02-23">February 23, 1981</date>. <!-- do we encode the dates that are mentionned in the event? --><!-- How do I add a see also when idk where the piece is currently -->(See also February 23, 1981.) </p>
           <bibl>Rick Brennan, “No Homosexual Lesson for Her Kids,” Toronto Star, four star ed., 17
             February 1981, p. C18</bibl>
           <bibl> Virginia Corner, “Homosexual Issue Revived by Mom’s Ire,” Toronto Star, four star

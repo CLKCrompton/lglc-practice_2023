@@ -61,16 +61,20 @@
     <body>
       <listEvent n="1981">
         <event xml:id="n81.1">
-          <p> Montréal Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui, a
-            one-hour-and-forty-five-minute video made for lesbians only and surveying the state of
-            lesbian life in Montréal, was released by Video Amazone. </p>
+          <p>
+            <placeName corresp="places.xml#MON"> Montréal </placeName> Amazons Then, Lesbians
+            Now/Amazones d’hier, lesbiennes d’aujourd’hui, a one-hour-and-forty-five-minute video
+            made for lesbians only and surveying the state of lesbian life in Montréal, was released
+            by Video Amazone. </p>
           <bibl>“Amazones d’hier, lesbiennes d’aujourd’hui,” Le Berdache, no. 25 (1981), p. 8</bibl>
           <bibl> “Amazons Then, Lesbians Now,” Lesbian/Lesbienne, 1, no. 3 (1981): 4.</bibl>
 
         </event>
         <event xml:id="n81.14">
-          <p> Vancouver Scott Watson’s book of stories Platonic Love: Three Tales of Language and
-            Desire was published by New Star Books. </p>
+          <p>
+            <placeName corresp="place.xml#NVAN"> Vancouver </placeName> Scott Watson’s book of
+            stories Platonic Love: Three Tales of Language and Desire was published by New Star
+            Books. </p>
           <bibl>Don Larventz, “The Fiction of Sexual Truth” (review), Body Politic, no. 78 (1981),
             p. 33</bibl>
           <bibl> Don Officer, “Beyond the Point” (review), Books in Canada, January 1982, pp.
@@ -84,16 +88,19 @@
 
         </event>
         <event xml:id="n81.30">
-          <p> January 26 Toronto Lynne Lake, the mother of two schoolchildren, reopened debate on
-            sexual orientation bias at the Toronto Board of Education when she made an emotional
-            plea to the schools programs committee. Lake demanded that the trustees rescind a motion
-            passed September 18, 1980, which prohibited “bias on the basis of sex or sexual
-            orientation,” and which specifically permitted “discussion of homosexuality” in schools.
-            Lake also claimed that the NDP had been “exploiting the (gay) issue” and that gay
-            activist John Argue, the chairman of the Metro Toronto NDP, had used political pressure
-            to swing the vote in favour of the anti-discrimination motion. After some vigorous
-            debate, the issue was referred to a special meeting of the full board of education to be
-            held February 23, 1981. (See also February 23, 1981.) </p>
+          <p>
+            <date> January 26 </date>
+            <placeName corresp="plaxe.xml#TOR"> Toronto </placeName> Lynne Lake, the mother of two
+            schoolchildren, reopened debate on sexual orientation bias at the Toronto Board of
+            Education when she made an emotional plea to the schools programs committee. Lake
+            demanded that the trustees rescind a motion passed September 18, 1980, which prohibited
+            “bias on the basis of sex or sexual orientation,” and which specifically permitted
+            “discussion of homosexuality” in schools. Lake also claimed that the NDP had been
+            “exploiting the (gay) issue” and that gay activist John Argue, the chairman of the Metro
+            Toronto NDP, had used political pressure to swing the vote in favour of the
+            anti-discrimination motion. After some vigorous debate, the issue was referred to a
+            special meeting of the full board of education to be held February 23, 1981. (See also
+            February 23, 1981.) </p>
           <bibl>Rick Brennan, “No Homosexual Lesson for Her Kids,” Toronto Star, four star ed., 17
             February 1981, p. C18</bibl>
           <bibl> Virginia Corner, “Homosexual Issue Revived by Mom’s Ire,” Toronto Star, four star
@@ -105,7 +112,7 @@
 
         </event>
         <event xml:id="n81.35">
-          <p> January–February Ottawa The Ottawa Children’s Aid Society (CAS) confirmed that it
+          <p> January–February <placeName corresp="places.xml#OTT">Ottawa</placeName> The Ottawa Children’s Aid Society (CAS) confirmed that it
             <!-- I'm the greatest --> would consider placing children with homosexual foster
             parents, but only as a last resort. Preference was to be given to placing children in a
             “normalized setting,” with heterosexual parents. Roger Galipeau, president of GO, called

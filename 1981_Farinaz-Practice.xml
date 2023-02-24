@@ -123,8 +123,8 @@
 
         </event>
         <event xml:id="n81.72">
-          <p> February 23 Toronto The Toronto Board of Education overturned two resolutions to ban
-            discrimination against gays it had instituted in September 1980, by a vote of fourteen
+          <p> <date when="1981-02-23">February 23</date> <placeName corresp="places.xml#TOR">Toronto</placeName> <orgName corresp="organizations.xml#TBE">The Toronto Board of Education</orgName> overturned two resolutions to ban
+            discrimination against gays it had instituted in <date when="1980-09">September 1980</date>, by a vote of fourteen
             to twelve, and replaced them with more conservative ones. Thirty-eight speakers
             addressed the full board meeting, which lasted more than seven hours. The trustees voted
             twenty-two to four to outlaw discrimination against gays in the board’s employment

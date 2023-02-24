@@ -9471,6 +9471,19 @@
                         </location>
                     </place>
 
+                    <place xml:id="ATL" type="city">
+                        <!-- MR this is my first time adding a place, sorry for not providing enough info, I'll add them later-->
+                        <placeName from="1914">Atlanta, GA</placeName>
+                        <location>
+                            <geo></geo>
+                            <address>
+                                <addrLine></addrLine>
+                                <addrLine corresp="#USA"/>
+                            </address>
+                        </location>
+                    </place>
+
+
                 </listPlace>
                 <relation name="religion" active="#MCCO" passive="#PROTESTANTISM"/>
                 <relation name="religion" active="#MCCT" passive="#PROTESTANTISM"/>

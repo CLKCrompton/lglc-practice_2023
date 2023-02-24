@@ -7244,12 +7244,21 @@
             </div>
         
             <div xml:id="p714" type="used">
-                <!-- MR Not much info-->
+                <!-- MR Not much info and I am not sure about its corresp place -->
                 <p>
                     <title level="j">Fredericton FLAGMAG</title>
                     <placeName corresp="places.xml#TOR"/>
                 </p> 
             </div>
+        
+            <div xml:id="p715" type="used">
+                <!-- MR Not much info -->
+                <p>
+                    <title level="j">Mudpie</title>
+                    <placeName corresp="places.xml#TOR"/>
+                </p> 
+            </div>
+        
         
         </body>
     </text>

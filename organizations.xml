@@ -6162,12 +6162,27 @@
                 <org xml:id="VA"> 
                     <!--  SL -->
                 <orgName>Video Amazone</orgName></org>
-                <org xml:id="MTNDP"><!--  SL -->
+                
+                <org xml:id="MTNDP">
+                    <!--  SL -->
                     <orgName>Metro Toronto NDP</orgName>
-                    </org>
+                </org>
+
+                <org xml:id="OCAS">
+                    <!--  MR -->
+                    <orgName>The Ottawa Children’s Aid Society (CAS)</orgName>
+                </org>
+
+                <org xml:id="CDC">
+                    <!--  MR -->
+                    <orgName>The Centers for Disease Control (CDC) </orgName>
+                </org>
 
 
-
+                <org xml:id="TNYTS">
+                    <!--  MR -->
+                    <orgName>The New York Times Service </orgName>
+                </org>
 
                 <org type="ignore" xml:id="BAPTIST">
                     <orgName>Baptist</orgName>

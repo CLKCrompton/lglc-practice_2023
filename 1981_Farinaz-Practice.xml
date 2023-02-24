@@ -131,10 +131,10 @@
             practices only, and also agreed to allow discussion of homosexuality in schools but only
             under strict guidelines, “when conducted by teachers and appropriate board staff as (the
             topic) arises out of curriculum.” </p>
-          <bibl><persName sameAs="people.xml#MHOU">Merylie Houston</persName>, “A Parent Speaks Out: The Gay Issue at the Board: The Latest
-            Round,” Mudpie (Toronto), 2, no. 3 (March 1981): 2</bibl>
-          <bibl> “Pros and Cons Clash over Gays in Classroom: Education Board Debate,” Toronto Sun,
-            24 February 1981, p. 31</bibl>
+          <bibl><persName sameAs="people.xml#MHOU">Merylie Houston</persName>, <title level="a">“A Parent Speaks Out: The Gay Issue at the Board: The Latest
+            Round,”</title> Mudpie <placeName corresp="places.xml#TOR">(Toronto)</placeName>, 2, no. 3 <date when="1981-03">(March 1981)</date>:<seg corresp="#n81.72">2</seg> </bibl>
+          <bibl> <title level="a">“Pros and Cons Clash over Gays in Classroom: Education Board Debate,”</title> <title level="j" corresp="priodicals.xml#p168">Toronto Sun</title>,
+            <date when="1981-02-24">24 February 1981</date>, <seg corresp="#n81.72">p. 31</seg></bibl>
           <bibl> Roger Spalding, “Toronto Board Limits Gay Rights Policy,” Body Politic, no. 72
             (1981), p. 14</bibl>
           <bibl> Allan Sparrow, “Sexual Orientation: 2 Battles Won. Board of Education Re-affirms

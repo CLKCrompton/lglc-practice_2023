@@ -135,11 +135,11 @@
             Round,”</title> Mudpie <placeName corresp="places.xml#TOR">(Toronto)</placeName>, 2, no. 3 <date when="1981-03">(March 1981)</date>:<seg corresp="#n81.72">2</seg> </bibl>
           <bibl> <title level="a">“Pros and Cons Clash over Gays in Classroom: Education Board Debate,”</title> <title level="j" corresp="priodicals.xml#p168">Toronto Sun</title>,
             <date when="1981-02-24">24 February 1981</date>, <seg corresp="#n81.72">p. 31</seg></bibl>
-          <bibl> Roger Spalding, “Toronto Board Limits Gay Rights Policy,” Body Politic, no. 72
-            (1981), p. 14</bibl>
-          <bibl> Allan Sparrow, “Sexual Orientation: 2 Battles Won. Board of Education Re-affirms
-            Stand Opposing Discrimination on the Basis of Sexual Orientation,” Ward 6 News
-            (Toronto), March 1981, p. 5</bibl>
+          <bibl> <persName sameAs="people.xml#RSPA">Roger Spalding</persName>, <title level="a">“Toronto Board Limits Gay Rights Policy,”</title> <title level="j" corresp="periodical.xml#p10">Body Politic</title>, no. 72
+            <date when="1981">(1981)</date>, <seg corresp="n81.72">p. 14</seg></bibl>
+          <bibl> <persName sameAs="people.xml#ASPA">Allan Sparrow</persName> , <title level="a">“Sexual Orientation: 2 Battles Won. Board of Education Re-affirms
+            Stand Opposing Discrimination on the Basis of Sexual Orientation,”</title> <orgName corresp="priodicals.xml#p698">Ward 6 News</orgName>
+            <placeName corresp="places.xml#TOR">(Toronto)</placeName>, March 1981, <seg corresp="n81.72">p. 5</seg></bibl>
           <bibl> “Toronto Enrolment Drop Predicted over Homosexuals,” Toronto Star, four star ed.,
             25 February 1981, p. A5</bibl>
           <bibl> Julia Turner, “Board Hears All Views on Homosexual Issue,” Globe and Mail, metro

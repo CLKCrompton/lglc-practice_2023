@@ -202,16 +202,17 @@
 
         </event>
         <event xml:id="n81.273">
-          <p> <date when="1981-07-03">July 3</date> New York, N.Y. The New York Times published an article by Lawrence K. Altman
-            entitled “Rare Cancer Seen in 41 Homosexuals,” which was subsequently distributed
-            internationally by the New York Times News Service. This was the first major mainstream
+          <p> <date when="1981-07-03">July 3</date> <placeName corresp="places.xml#NY">New York, N.Y.</placeName> <title level="j" corresp="periodicals.xml#p147">The New York Times</title> published an article by <persName sameAs="people.xml#LALT">Lawrence K. Altman</persName>
+            entitled <title level="a">“Rare Cancer Seen in 41 Homosexuals,”</title> which was subsequently distributed
+            internationally by <orgName corresp="organizations.xml#">the New York Times News Service</orgName>. This was the first major mainstream
             newspaper article to discuss the health crisis that would eventually become known as the
-            AIDS pandemic. An unnamed Body Politic reporter (likely Randy Coates and/or Bill Lewis)
+            AIDS pandemic. An unnamed <title level="j" corresp="periodicals.xml#p10">Body Politic</title> reporter (likely <persName sameAs="people.xml#RCOA">Randy Coates</persName> and/or <persName sameAs="people.xml#BLEW">Bill Lewis</persName>)
             dismissed the report as being biased and riddled with errors. </p>
-          <bibl>Lawrence K. Altman, “Rare Cancer Seen in 41 Homosexuals,” New York Times, late city
-            ed., 3 July 1981, p. A20</bibl>
-          <bibl> Alain Emmanuel Dreuilhe, “Le cancer gai” (medical column), Le Berdache, no. 24
-            (1981), p. 23</bibl>
+          <bibl><persName sameAs="people.xml#LALT">Lawrence K. Altman</persName>, <title level="a">“Rare Cancer Seen in 41 Homosexuals,”</title> <title level="j" corresp="periodicals.xml#p147">New York Times</title>, late city
+            ed., <date when="1981-07-03">3 July 1981</date>, p. A20</bibl>
+          <bibl> <persName 
+            sameAs="people.xml#AEMM">Alain Emmanuel Dreuilhe</persName>, <title level="a">“Le cancer gai”</title> (medical column), <title level="j" corresp="periodicals.xml#p175">Le Berdache</title>, no. 24
+            <date when="1981">(1981)</date>, p. 23</bibl>
 
 
         </event>

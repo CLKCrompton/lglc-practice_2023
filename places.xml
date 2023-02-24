@@ -9483,6 +9483,29 @@
                         </location>
                     </place>
 
+                    <place xml:id="LANC" type="college">
+                        <!-- MR -->
+                        <placeName from="1914">Langara College</placeName>
+                        <location>
+                            <geo></geo>
+                            <address>
+                                <addrLine>100 W 49th Ave, Vancouver, BC V5Y 2Z6</addrLine>
+                                <addrLine corresp="#VAN"/>
+                            </address>
+                        </location>
+                    </place>
+                    
+                    <place xml:id="WFG" type="college">
+                        <!-- MR https://en.wikipedia.org/wiki/Women_in_Focus-->
+                        <placeName from="1914">Women in Focus Gallery</placeName>
+                        <location>
+                            <geo></geo>
+                            <address>
+                                <addrLine></addrLine>
+                                <addrLine corresp="#VAN"/>
+                            </address>
+                        </location>
+                    </place>Robson Square
 
                 </listPlace>
                 <relation name="religion" active="#MCCO" passive="#PROTESTANTISM"/>

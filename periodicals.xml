@@ -7259,6 +7259,14 @@
                 </p> 
             </div>
         
+            <div xml:id="p716" type="used">
+                <!-- MR https://riseupfeministarchive.ca/publications/lavender-sheets/ -->
+                <p>
+                    <title level="j">Lavender Sheets (LOOT)</title>
+                    <placeName corresp="places.xml#TOR"/>
+                </p> 
+            </div>
+            
         
         </body>
     </text>

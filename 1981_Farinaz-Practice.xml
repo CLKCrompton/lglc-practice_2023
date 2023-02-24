@@ -188,27 +188,30 @@
 
 
         </event>
+        
         <event xml:id="n81.223">
           <p> <date when="1981-06-05">June 5 </date><placeName corresp="places.xml#ATL">Atlanta</placeName>, Ga. <orgName corresp="organization.xml#CDC">The Centers for Disease Control (CDC)</orgName> reported that five gay men
-            in <placeName corresp="places.xml#LOS"></placeName> had been diagnosed with pneumocystis pneumonia, which was rare and
+            in <placeName corresp="places.xml#LOS">Los Angeles</placeName> had been diagnosed with pneumocystis pneumonia, which was rare and
             frequently fatal. This was the first official report from the CDC concerning the health
             crisis that would later become known as the AIDS pandemic. (See also <seg corresp="n81.273">July 3, 1981</seg>.) </p>
-          <bibl><persName sameAs="people.xml#BLEW">Bill Lewis</persName> and <persName sameAs="people.xml#RCOA">Randy Coates</persName>, <title level="a">“Moral Lessons Fatal Cancer,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 77 (1981), <seg corresp="n81.223">p. 43</seg>
+          
+          <bibl><persName sameAs="people.xml#BLEW">Bill Lewis</persName> and <persName sameAs="people.xml#RCOA">Randy Coates</persName>, <title level="a">“Moral Lessons Fatal Cancer,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 77 (1981), <seg corresp="n81.223">p. 43</seg> </bibl>
             <bibl> <persName sameAs="people.xml#JPEP">Jacques Pepin</persName>, <title level="a">The Origins of AIDS</title> <orgName corresp="organization.xml#CAMBUP">(Cambridge: Cambridge University Press</orgName>, 2011),
            <seg corresp="n81.223">pp. 293</seg> </bibl>
-
-        </event>
+                        </event>
+        
+        
         <event xml:id="n81.273">
-          <p> July 3 New York, N.Y. The New York Times published an article by Lawrence K. Altman
-            entitled “Rare Cancer Seen in 41 Homosexuals,” which was subsequently distributed
-            internationally by the New York Times News Service. This was the first major mainstream
+          <p> <date when="1981-07-03">July 3</date> <placeName corresp="places.xml#NEW">New York</placeName>, <placeName corresp="places.xml#NY">N.Y.</placeName> <orgName corresp="periodical.xml#p147">The New York Times</orgName> published an article by <persName sameAs="people.xml#LAKA">Lawrence K. Altman</persName>
+            entitled <title level="a">“Rare Cancer Seen in 41 Homosexuals,”</title> which was subsequently distributed
+            internationally by <orgName corresp="periodical.xml#p147">The New York Times</orgName> News Service. This was the first major mainstream
             newspaper article to discuss the health crisis that would eventually become known as the
-            AIDS pandemic. An unnamed Body Politic reporter (likely Randy Coates and/or Bill Lewis)
+            AIDS pandemic. An unnamed <title level="j" corresp="periodicals.xml#p10">Body Politic </title>reporter (likely <persName sameAs="people.xml#RCOA">Randy Coates</persName> and/or <persName sameAs="people.xml#BLEW">Bill Lewis</persName>)
             dismissed the report as being biased and riddled with errors. </p>
-          <bibl>Lawrence K. Altman, “Rare Cancer Seen in 41 Homosexuals,” New York Times, late city
-            ed., 3 July 1981, p. A20</bibl>
-          <bibl> Alain Emmanuel Dreuilhe, “Le cancer gai” (medical column), Le Berdache, no. 24
-            (1981), p. 23</bibl>
+          <bibl><persName sameAs="people.xml#LAKA">Lawrence K. Altman</persName>, <title level="a">“Rare Cancer Seen in 41 Homosexuals,”</title> <orgName corresp="periodical.xml#p147">The New York Times</orgName>, late city
+            ed., 3 July 1981, <seg corresp="#n81.223">p. A20</seg></bibl>
+          <bibl> <persName sameAs="people.xml#ALED">Alain Emmanuel Dreuilhe</persName>, <title level="a">“Le cancer gai” </title>, (medical column) <title level="j" corresp="periodicals.xml#p175">Le Berdache</title>, no. 24
+            (1981), <seg corresp="#n81.273">p. 23</seg></bibl>
 
 
         </event>

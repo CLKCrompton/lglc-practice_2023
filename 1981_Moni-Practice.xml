@@ -145,22 +145,26 @@
 
         </event>
         <event xml:id="n81.35">
-          <p> January–February <placeName corresp="places.xml#OTT">Ottawa</placeName> The Ottawa
-            Children’s Aid Society (CAS) confirmed that it <!-- I'm the greatest --> would consider
-            placing children with homosexual foster parents, but only as a last resort. Preference
-            was to be given to placing children in a “normalized setting,” with heterosexual
-            parents. Roger Galipeau, president of GO, called the policy discriminatory and asked CAS
-            to reconsider its position. </p>
-          <bibl>David Garmaise, “Gay Foster Parents a Last Resort: CAS,” Body Politic, no. 71
-            (1981), p. 14.</bibl>
+          <p>
+            <date from="1981-01" to="1981-02">January–February</date>
+            <placeName corresp="places.xml#OTT">Ottawa</placeName>
+            <orgName corresp="organizations.xml#OCAS">The Ottawa Children’s Aid Society
+              (CAS)</orgName> confirmed that it <!-- I'm the greatest --> would consider placing
+            children with homosexual foster parents, but only as a last resort. Preference was to be
+            given to placing children in a “normalized setting,” with heterosexual parents.
+              <persName sameAs="people.xml#BRGA">Roger Galipeau</persName>, president of GO, called
+            the policy discriminatory and asked CAS to reconsider its position. </p>
+          <bibl><persName sameAs="people.xml#DGAR">David Garmaise</persName>, <title level="a">“Gay
+              Foster Parents a Last Resort: CAS,”</title>
+            <title level="j" corresp="periodicals.xml# p10">Body Politic</title>, no. 71 (1981),
+              <seg corresp="#n81.35">p. 14</seg>.</bibl>
 
         </event>
         <event xml:id="n81.71">
-          <p> February 23 Toronto Three weeks of public hearings on Bill 209, an Act to Amend the
+          <p> <date when="1981-02-23">February 23</date> <persName corresp="places.xml#TOR">Toronto</persName> Three weeks of public hearings on Bill 209, an Act to Amend the
             Ontario Human Rights Code, were slated to begin before the Social Development Committee
             of the Ontario Legislature. </p>
-          <bibl>Chris Bearchell, “Strange Bedfellows?” Body Politic, no. 70 (1981), pp.
-            10–11.</bibl>
+          <bibl><persName corresp="people.xml#CBEA">Chris Bearchell</persName>, <title level="a">“Strange Bedfellows?”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 70 (1981), <seg corresp="#n81.71">pp. 10–11</seg>.</bibl>
 
         </event>
         <event xml:id="n81.72">

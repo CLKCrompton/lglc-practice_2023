@@ -7242,6 +7242,15 @@
                     <placeName corresp="places.xml#TOR"/>
                 </p> 
             </div>
+        
+            <div xml:id="p714" type="used">
+                <!-- MR Not much info-->
+                <p>
+                    <title level="j">Fredericton FLAGMAG</title>
+                    <placeName corresp="places.xml#TOR"/>
+                </p> 
+            </div>
+        
         </body>
     </text>
 </TEI>

@@ -191,18 +191,17 @@
 
         </event>
         <event xml:id="n81.223">
-          <p> June 5 Atlanta, Ga. The Centers for Disease Control (CDC) reported that five gay men
-            in Los Angeles had been diagnosed with pneumocystis pneumonia, which was rare and
-            frequently fatal. This was the first official report from the CDC concerning the health
-            crisis that would later become known as the AIDS pandemic. (See also July 3, 1981.) </p>
-          <bibl>Bill Lewis and Randy Coates, “Moral Lessons</bibl>
-          <bibl> Fatal Cancer,” Body Politic, no. 77 (1981), p. 43</bibl>
-          <bibl> Jacques Pepin, The Origins of AIDS (Cambridge: Cambridge University Press, 2011),
+          <p> <date when="1981-06-05">June 5</date> <placeName corresp="places.xml#ATL">Atlanta,</placeName> Ga. <orgName corresp="organizations.xml#">The Centers for Disease Control (CDC)</orgName> reported that five gay men
+            in <placeName corresp="places.xml#LOS">Los Angeles</placeName> had been diagnosed with pneumocystis pneumonia, which was rare and
+            frequently fatal. This was the first official report from the <orgName corresp="organizations.xml#">CDC</orgName> concerning the health
+            crisis that would later become known as the AIDS pandemic. <seg corresp="#n81.273">(See also July 3, 1981.)</seg> </p>
+          <bibl><persName sameAs="people.xml#BLEW">Bill Lewis</persName> and <persName sameAs="people.xml#RCOA">Randy Coates</persName>, <title level="a">“Moral Lessons Fatal Cancer,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic,</title> no. 77 <date when="1981">(1981)</date>, p. 43</bibl>
+          <bibl> <persName sameAs="people.xml#JPEP">Jacques Pepin</persName>, <title level="m">The Origins of AIDS</title> (<placeName corresp="places.xml#">Cambridge</placeName>: <orgName corresp="organizations.xml#">Cambridge University Press</orgName>, <date when="2011">2011</date>),
             293 pp.</bibl>
 
         </event>
         <event xml:id="n81.273">
-          <p> <date when="1981-07-03">July 3</date> <placeName corresp="places.xml#NY">New York, N.Y.</placeName> <title level="j" corresp="periodicals.xml#p147">The New York Times</title> published an article by <persName sameAs="people.xml#LALT">Lawrence K. Altman</persName>
+          <p> <date when="1981-07-03">July 3</date> <placeName corresp="places.xml#NY">New York,</placeName> N.Y. <title level="j" corresp="periodicals.xml#p147">The New York Times</title> published an article by <persName sameAs="people.xml#LALT">Lawrence K. Altman</persName>
             entitled <title level="a">“Rare Cancer Seen in 41 Homosexuals,”</title> which was subsequently distributed
             internationally by <orgName corresp="organizations.xml#">the New York Times News Service</orgName>. This was the first major mainstream
             newspaper article to discuss the health crisis that would eventually become known as the

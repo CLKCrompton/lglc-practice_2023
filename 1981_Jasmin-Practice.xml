@@ -28,8 +28,8 @@
         <respStmt>
           <resp>Encoded by</resp>
           <persName sameAs="people.xml#">
-            <forename><!-- your first name --></forename>
-            <surname><!-- your last name --></surname>
+            <forename> your first name --></forename>
+            <surname> your last name --></surname>
           </persName>
         </respStmt>
       </titleStmt>
@@ -61,158 +61,324 @@
     <body>
       <listEvent n="1981">
         <event xml:id="n81.1">
-          <!-- MR: No self-closing tag  -->
-          <p> <placeName corresp="places.xml#MON">Montréal</placeName> <title level="a">Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui</title>, a
-            one-hour-and-forty-five-minute video made for lesbians only and surveying the state of
-            lesbian life in <placeName corresp="places.xml#MON">Montréal</placeName>, was released by <orgName corresp="organizations.xml#">Video Amazone</orgName> <!-- MR:no id -->. </p>
-          <bibl><title level="a">“Amazones d’hier, lesbiennes d’aujourd’hui,”</title> <persName sameAs="people.xml#LEB">Le Berdache</persName>, no. 25 <date when="1981">(1981)</date>, p. 8</bibl>
-          <bibl> <title level="a">“Amazons Then, Lesbians Now,”</title> <title level="j" corresp="periodicals.xml#p302">Lesbian/Lesbienne</title>, 1, no. 3 <date when="1981">(1981)</date>: 4.</bibl>
+           <!--MR: No self-closing tag  -->
+          <p>
+            <placeName corresp="places.xml#MON">Montréal</placeName>
+            <title level="a">Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes
+              d’aujourd’hui</title>, a one-hour-and-forty-five-minute video made for lesbians only
+            and surveying the state of lesbian life in <placeName corresp="places.xml#MON"
+              >Montréal</placeName>, was released by <orgName corresp="organizations.xml#">Video
+              Amazone</orgName>
+             MR:no id -->. </p>
+          <bibl><title level="a">“Amazones d’hier, lesbiennes d’aujourd’hui,”</title>
+            <persName sameAs="people.xml#LEB">Le Berdache</persName>, no. 25 <date when="1981"
+              >(1981)</date>, p. 8</bibl>
+          <bibl>
+            <title level="a">“Amazons Then, Lesbians Now,”</title>
+            <title level="j" corresp="periodicals.xml#p302">Lesbian/Lesbienne</title>, 1, no. 3
+              <date when="1981">(1981)</date>: 4.</bibl>
 
         </event>
         <event xml:id="n81.14">
-          <p> <placeName corresp="places.xml#VAN">Vancouver</placeName> <persName sameAs="people.xmlSWAT">Scott Watson</persName>’s book of stories <title level="m">Platonic Love: Three Tales of Language and
-            Desire</title> was published by <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
-          <bibl><persName sameAs="people.xml#DLAR">Don Larventz</persName>, <title level="a">“The Fiction of Sexual Truth”</title> (review), <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 78 <date when="1981">(1981)</date>,
-            p. 33</bibl>
-          <bibl> <persName sameAs="people.xml#DOFF">Don Officer</persName>, <title level="a">“Beyond the Point”</title> (review), <title level="j" corresp="periodicals.xml#p157">Books in Canada</title>, <date when="1982-01">January 1982</date>, pp.
-            15–16</bibl>
-          <bibl> <persName sameAs="people.xml#GOXF">Gerry Oxford</persName>, <title level="a">“Platonic Love”</title> (review), <title level="j" corresp="periodicals.xml#p237">Quill &amp; Quire</title>, <date when="1982-01">January 1982</date>, pp.
-            31–32</bibl>
-          <bibl> <persName sameAs="people.xml#SRUDD">Simon Ruddell</persName>, <title level="a">“Street Life”</title> (review), <title level="j" corresp="periodicals.xml#p109">Canadian Literature</title>, no. 95 <date when="1982">(1982)</date>, pp.
-            143–44</bibl>
-          <bibl> <persName sameAs="people.xml#IYOU">Ian Young</persName>, <title level="m">The Male Homosexual in Literature: A Bibliography</title>, second ed. (<placeName corresp="places.xml#NJ">Metuchen,
-            N.J.</placeName>: <orgName corresp="organizations.xml#SP">Scarecrow Press</orgName>, <date when="1982">1982</date>), entry 4013.</bibl>
+          <p>
+            <placeName corresp="places.xml#VAN">Vancouver</placeName>
+            <persName sameAs="people.xmlSWAT">Scott Watson</persName>’s book of stories <title
+              level="m">Platonic Love: Three Tales of Language and Desire</title> was published by
+              <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
+          <bibl><persName sameAs="people.xml#DLAR">Don Larventz</persName>, <title level="a">“The
+              Fiction of Sexual Truth”</title> (review), <title level="j"
+              corresp="periodicals.xml#p10">Body Politic</title>, no. 78 <date when="1981"
+              >(1981)</date>, p. 33</bibl>
+          <bibl>
+            <persName sameAs="people.xml#DOFF">Don Officer</persName>, <title level="a">“Beyond the
+              Point”</title> (review), <title level="j" corresp="periodicals.xml#p157">Books in
+              Canada</title>, <date when="1982-01">January 1982</date>, pp. 15–16</bibl>
+          <bibl>
+            <persName sameAs="people.xml#GOXF">Gerry Oxford</persName>, <title level="a">“Platonic
+              Love”</title> (review), <title level="j" corresp="periodicals.xml#p237">Quill &amp;
+              Quire</title>, <date when="1982-01">January 1982</date>, pp. 31–32</bibl>
+          <bibl>
+            <persName sameAs="people.xml#SRUDD">Simon Ruddell</persName>, <title level="a">“Street
+              Life”</title> (review), <title level="j" corresp="periodicals.xml#p109">Canadian
+              Literature</title>, no. 95 <date when="1982">(1982)</date>, pp. 143–44</bibl>
+          <bibl>
+            <persName sameAs="people.xml#IYOU">Ian Young</persName>, <title level="m">The Male
+              Homosexual in Literature: A Bibliography</title>, second ed. (<placeName
+              corresp="places.xml#NJ">Metuchen, N.J.</placeName>: <orgName
+              corresp="organizations.xml#SP">Scarecrow Press</orgName>, <date when="1982"
+              >1982</date>), entry 4013.</bibl>
 
         </event>
         <event xml:id="n81.30">
-          <p> <date when="1981-01-26">January 26</date> <placeName corresp="places.xml#TOR">Toronto</placeName> <persName sameAs="people.xml#LLAK">Lynne Lake</persName>, the mother of two schoolchildren, reopened debate on
-            sexual orientation bias at the <orgName corresp="organizations.xml#TBE">Toronto Board of Education</orgName> when she made an emotional
-            plea to the schools programs committee. <persName sameAs="people.xml#LLAK">Lake</persName> demanded that the trustees rescind a motion
-            passed <date when="1980-09-18">September 18, 1980</date>, which prohibited “bias on the basis of sex or sexual
-            orientation,” and which specifically permitted “discussion of homosexuality” in schools.
-            <persName sameAs="people.xml#LLAK">Lake</persName> also claimed that the <orgName corresp="organizations.xml#NDP">NDP</orgName> had been “exploiting the (gay) issue” and that gay
-            activist <persName sameAs="people.xml#JARG">John Argue</persName>, the chairman of <orgName corresp="organizations.xml#NDP">the Metro Toronto NDP</orgName>, had used political pressure
-            to swing the vote in favour of the anti-discrimination motion. After some vigorous
-            debate, the issue was referred to a special meeting of the full board of education to be
-            held <date when="1981-02-23">February 23, 1981</date>. <seg corresp="#n81.72">(See also <date when="1981-02-23">February 23, 1981</date>.)</seg> </p>
-          <bibl><persName sameAs="people.xml#RBRE">Rick Brennan</persName>, <title level="a">“No Homosexual Lesson for Her Kids,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed., <date when="1981-02-17">17
-            February 1981</date>, p. C18</bibl>
-          <bibl> <persName sameAs="people.xml#VCOR">Virginia Corner</persName>, <title level="a">“Homosexual Issue Revived by Mom’s Ire,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star
-            ed., <date when="1981-01-27">27 January 1981</date>, p. A3</bibl>
-          <bibl> <persName sameAs="people.xml#BMCL">Bruce A. McLeod</persName>, <title level="a">“Mom Battles Board Over Stand on Gays,”</title> <title level="j" corresp="periodicals.xml#p168">Toronto Sun</title>, <date when="1981-02-17">17 February
-            1981</date>, p. 18</bibl>
-          <bibl> <persName sameAs="RSPA">Roger Spalding</persName>, <title level="a">“Mother’s Plea to School Board Reopens Debate on Ban on Bias,”</title> <title level="j" corresp="periodicals.xml#p10">Body
-            Politic</title>, no. 71 <date when="1981">(1981)</date>, p. 13.</bibl> 
+          <p>
+            <date when="1981-01-26">January 26</date>
+            <placeName corresp="places.xml#TOR">Toronto</placeName>
+            <persName sameAs="people.xml#LLAK">Lynne Lake</persName>, the mother of two
+            schoolchildren, reopened debate on sexual orientation bias at the <orgName
+              corresp="organizations.xml#TBE">Toronto Board of Education</orgName> when she made an
+            emotional plea to the schools programs committee. <persName sameAs="people.xml#LLAK"
+              >Lake</persName> demanded that the trustees rescind a motion passed <date
+              when="1980-09-18">September 18, 1980</date>, which prohibited “bias on the basis of
+            sex or sexual orientation,” and which specifically permitted “discussion of
+            homosexuality” in schools. <persName sameAs="people.xml#LLAK">Lake</persName> also
+            claimed that the <orgName corresp="organizations.xml#NDP">NDP</orgName> had been
+            “exploiting the (gay) issue” and that gay activist <persName sameAs="people.xml#JARG"
+              >John Argue</persName>, the chairman of <orgName corresp="organizations.xml#NDP">the
+              Metro Toronto NDP</orgName>, had used political pressure to swing the vote in favour
+            of the anti-discrimination motion. After some vigorous debate, the issue was referred to
+            a special meeting of the full board of education to be held <date when="1981-02-23"
+              >February 23, 1981</date>. <seg corresp="#n81.72">(See also <date when="1981-02-23"
+                >February 23, 1981</date>.)</seg>
+          </p>
+          <bibl><persName sameAs="people.xml#RBRE">Rick Brennan</persName>, <title level="a">“No
+              Homosexual Lesson for Her Kids,”</title>
+            <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed.,
+              <date when="1981-02-17">17 February 1981</date>, p. C18</bibl>
+          <bibl>
+            <persName sameAs="people.xml#VCOR">Virginia Corner</persName>, <title level="a"
+              >“Homosexual Issue Revived by Mom’s Ire,”</title>
+            <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed.,
+              <date when="1981-01-27">27 January 1981</date>, p. A3</bibl>
+          <bibl>
+            <persName sameAs="people.xml#BMCL">Bruce A. McLeod</persName>, <title level="a">“Mom
+              Battles Board Over Stand on Gays,”</title>
+            <title level="j" corresp="periodicals.xml#p168">Toronto Sun</title>, <date
+              when="1981-02-17">17 February 1981</date>, p. 18</bibl>
+          <bibl>
+            <persName sameAs="RSPA">Roger Spalding</persName>, <title level="a">“Mother’s Plea to
+              School Board Reopens Debate on Ban on Bias,”</title>
+            <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 71 <date
+              when="1981">(1981)</date>, p. 13.</bibl>
 
         </event>
         <event xml:id="n81.35">
-          <p> <date from="1981-01" to="1981-02">January–February</date> <placeName corresp="places.xml#OTT">Ottawa</placeName> <orgName corresp="organizations.xml#">The Ottawa Children’s Aid Society (CAS)</orgName> confirmed that it
-            <!-- I'm the greatest --> would consider placing children with homosexual foster
-            parents, but only as a last resort. Preference was to be given to placing children in a
-            “normalized setting,” with heterosexual parents. <persName sameAs="people.xml#RGAL">Roger Galipeau</persName>, president of <orgName corresp="organizations.xml#GO">GO</orgName>, called
-            the policy discriminatory and asked <orgName corresp="organizations.xml#">CAS</orgName> to reconsider its position. </p>
-          <bibl><persName sameAs="people.xml#DGAR">David Garmaise</persName>, <title level="a">“Gay Foster Parents a Last Resort: CAS,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 71
-            <date when="1981">(1981)</date>, p. 14.</bibl>
+          <p>
+            <date from="1981-01" to="1981-02">January–February</date>
+            <placeName corresp="places.xml#OTT">Ottawa</placeName>
+            <orgName corresp="organizations.xml#">The Ottawa Children’s Aid Society (CAS)</orgName>
+            confirmed that it  I'm the greatest --> would consider placing children with
+            homosexual foster parents, but only as a last resort. Preference was to be given to
+            placing children in a “normalized setting,” with heterosexual parents. <persName
+              sameAs="people.xml#RGAL">Roger Galipeau</persName>, president of <orgName
+              corresp="organizations.xml#GO">GO</orgName>, called the policy discriminatory and
+            asked <orgName corresp="organizations.xml#">CAS</orgName> to reconsider its position. </p>
+          <bibl><persName sameAs="people.xml#DGAR">David Garmaise</persName>, <title level="a">“Gay
+              Foster Parents a Last Resort: CAS,”</title>
+            <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 71 <date
+              when="1981">(1981)</date>, p. 14.</bibl>
 
         </event>
         <event xml:id="n81.71">
-          <p> <date when="1981-02-23">February 23</date> <placeName corresp="places.xml#TOR">Toronto</placeName> Three weeks of public hearings on <title level="m">Bill 209, an Act to Amend the
-            Ontario Human Rights Code</title>, were slated to begin before <placeName corresp="places.xml#QP">the Social Development Committee
-              of the Ontario Legislature.</placeName></p>
-          <bibl><persName sameAs="people.xml#CBEA">Chris Bearchell</persName>, <title level="a">“Strange Bedfellows?”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 70 <date when="1981">(1981)</date>, pp.
-            10–11.</bibl>
+          <p>
+            <date when="1981-02-23">February 23</date>
+            <placeName corresp="places.xml#TOR">Toronto</placeName> Three weeks of public hearings
+            on <title level="m">Bill 209, an Act to Amend the Ontario Human Rights Code</title>,
+            were slated to begin before <placeName corresp="places.xml#QP">the Social Development
+              Committee of the Ontario Legislature.</placeName></p>
+          <bibl><persName sameAs="people.xml#CBEA">Chris Bearchell</persName>, <title level="a"
+              >“Strange Bedfellows?”</title>
+            <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 70 <date
+              when="1981">(1981)</date>, pp. 10–11.</bibl>
 
         </event>
         <event xml:id="n81.72">
-          <p> <date when="1981-02-23">February 23</date> <placeName corresp="places.xml#TOR">Toronto</placeName> <orgName corresp="organizations.xml#TBE">The Toronto Board of Education</orgName> overturned two resolutions to ban
-            discrimination against gays it had instituted in <date when="1980-09">September 1980</date>, by a vote of fourteen
-            to twelve, and replaced them with more conservative ones. Thirty-eight speakers
-            addressed the full board meeting, which lasted more than seven hours. The trustees voted
-            twenty-two to four to outlaw discrimination against gays in the board’s employment
-            practices only, and also agreed to allow discussion of homosexuality in schools but only
-            under strict guidelines, “when conducted by teachers and appropriate board staff as (the
-            topic) arises out of curriculum.” </p>
-          <bibl><persName sameAs="people.xml#MHOU">Merylie Houston</persName>, <title level="a">“A Parent Speaks Out: The Gay Issue at the Board: The Latest
-            Round,”</title> <title level="j" corresp="periodicals.xml#">Mudpie</title> <placeName corresp="places.xml#TOR">(Toronto)</placeName>, 2, no. 3 <date when="1981-03">(March 1981)</date>: 2</bibl>
-          <bibl> <title level="a">“Pros and Cons Clash over Gays in Classroom: Education Board Debate,”</title> <title level="j" corresp="periodicals.xml#p168">Toronto Sun</title>,
-            <date when="1981-02-24">24 February 1981</date>, p. 31</bibl>
-          <bibl> <persName sameAs="people.xml#RSPA">Roger Spalding</persName>, <title level="a">“Toronto Board Limits Gay Rights Policy,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 72
-            <date when="1981">(1981)</date>, p. 14</bibl>
-          <bibl> <persName sameAs="people.xml#ASPA">Allan Sparrow</persName>, <title level="a">“Sexual Orientation: 2 Battles Won. Board of Education Re-affirms
-            Stand Opposing Discrimination on the Basis of Sexual Orientation,”</title> <title level="j" corresp="periodicals.xml#p689">Ward 6 Newstitle</title>
-            <placeName corresp="places.xml#TOR">(Toronto)</placeName>, <date when="1981-03">March 1981</date>, p. 5</bibl>
-          <bibl> <title level="a">“Toronto Enrolment Drop Predicted over Homosexuals,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed.,
-            <date when="1981-02-25">25 February 1981</date>, p. A5</bibl>
-          <bibl> <persName sameAs="people.xml#JTUR">Julia Turner</persName>, <title level="a">“Board Hears All Views on Homosexual Issue,”</title> <title level="j" corresp="periodicals.xml#p105">Globe and Mail</title>, metro
-            ed., <date when="1981-02-24">24 February 1981</date>, p. 19</bibl>
-          <bibl> <persName sameAs="people.xml#JTUR">Julia Turner</persName>, <title level="a">“Gay Rights Are Upheld by Board,”</title> <title level="j" corresp="periodicals.xml#p105">Globe and Mail</title>, metro ed.,
-            <date when="1981-02-25">25 February 1981</date>, p. 5</bibl>
-          <bibl> <persName sameAs="people.xml#DVIE">David Vienneau</persName>, <title level="a">“Trustees Spurn, Back Homosexuals,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed.,
-            <date when="1981-02-24">24 February 1981</date>, pp. A1, A7.</bibl>
+          <p>
+            <date when="1981-02-23">February 23</date>
+            <placeName corresp="places.xml#TOR">Toronto</placeName>
+            <orgName corresp="organizations.xml#TBE">The Toronto Board of Education</orgName>
+            overturned two resolutions to ban discrimination against gays it had instituted in <date
+              when="1980-09">September 1980</date>, by a vote of fourteen to twelve, and replaced
+            them with more conservative ones. Thirty-eight speakers addressed the full board
+            meeting, which lasted more than seven hours. The trustees voted twenty-two to four to
+            outlaw discrimination against gays in the board’s employment practices only, and also
+            agreed to allow discussion of homosexuality in schools but only under strict guidelines,
+            “when conducted by teachers and appropriate board staff as (the topic) arises out of
+            curriculum.” </p>
+          <bibl><persName sameAs="people.xml#MHOU">Merylie Houston</persName>, <title level="a">“A
+              Parent Speaks Out: The Gay Issue at the Board: The Latest Round,”</title>
+            <title level="j" corresp="periodicals.xml#">Mudpie</title>
+            <placeName corresp="places.xml#TOR">(Toronto)</placeName>, 2, no. 3 <date when="1981-03"
+              >(March 1981)</date>: 2</bibl>
+          <bibl>
+            <title level="a">“Pros and Cons Clash over Gays in Classroom: Education Board
+              Debate,”</title>
+            <title level="j" corresp="periodicals.xml#p168">Toronto Sun</title>, <date
+              when="1981-02-24">24 February 1981</date>, p. 31</bibl>
+          <bibl>
+            <persName sameAs="people.xml#RSPA">Roger Spalding</persName>, <title level="a">“Toronto
+              Board Limits Gay Rights Policy,”</title>
+            <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 72 <date
+              when="1981">(1981)</date>, p. 14</bibl>
+          <bibl>
+            <persName sameAs="people.xml#ASPA">Allan Sparrow</persName>, <title level="a">“Sexual
+              Orientation: 2 Battles Won. Board of Education Re-affirms Stand Opposing
+              Discrimination on the Basis of Sexual Orientation,”</title>
+            <title level="j" corresp="periodicals.xml#p689">Ward 6 Newstitle</title>
+            <placeName corresp="places.xml#TOR">(Toronto)</placeName>, <date when="1981-03">March
+              1981</date>, p. 5</bibl>
+          <bibl>
+            <title level="a">“Toronto Enrolment Drop Predicted over Homosexuals,”</title>
+            <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed.,
+              <date when="1981-02-25">25 February 1981</date>, p. A5</bibl>
+          <bibl>
+            <persName sameAs="people.xml#JTUR">Julia Turner</persName>, <title level="a">“Board
+              Hears All Views on Homosexual Issue,”</title>
+            <title level="j" corresp="periodicals.xml#p105">Globe and Mail</title>, metro ed., <date
+              when="1981-02-24">24 February 1981</date>, p. 19</bibl>
+          <bibl>
+            <persName sameAs="people.xml#JTUR">Julia Turner</persName>, <title level="a">“Gay Rights
+              Are Upheld by Board,”</title>
+            <title level="j" corresp="periodicals.xml#p105">Globe and Mail</title>, metro ed., <date
+              when="1981-02-25">25 February 1981</date>, p. 5</bibl>
+          <bibl>
+            <persName sameAs="people.xml#DVIE">David Vienneau</persName>, <title level="a">“Trustees
+              Spurn, Back Homosexuals,”</title>
+            <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed.,
+              <date when="1981-02-24">24 February 1981</date>, pp. A1, A7.</bibl>
 
         </event>
         <event xml:id="n81.128">
-          <p> <date from="1981-03" to="1981-05">Spring</date> <placeName corresp="places.xml#HAL">Halifax</placeName> The first issue of <title level="j" corresp="periodicals.xml#p465">Making Waves: An Atlantic Quarterly for Lesbians and
-            Gay Men</title> was published. <persName sameAs="people.xml#RMET">Robin Metcalfe</persName> edited the magazine. </p>
-          <bibl><persName sameAs="people.xml#AGAB">Arn Gabel</persName>, <title level="a">“Make Way for Making Waves,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 70 <date when="1981">(1981)</date>, p. 12</bibl>
-          <bibl> <persName sameAs="people.xml#RMET">Robin Metcalfe</persName>, <title level="a">“Making Waves in Atlantic Canada,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 74 <date when="1981">(1981)</date>, p.
-            17</bibl>
-          <bibl> <title level="a">“New: Making Waves,”</title> <placeName corresp="places.xml#FRE">Fredericton</placeName> <title level="j" corresp="periodicals.xml#p368">FLAGMAG</title>, no. 4 <date when="1981">(1981)</date>, p. 7.</bibl>
+          <p>
+            <date from="1981-03" to="1981-05">Spring</date>
+            <placeName corresp="places.xml#HAL">Halifax</placeName> The first issue of <title
+              level="j" corresp="periodicals.xml#p465">Making Waves: An Atlantic Quarterly for
+              Lesbians and Gay Men</title> was published. <persName sameAs="people.xml#RMET">Robin
+              Metcalfe</persName> edited the magazine. </p>
+          <bibl><persName sameAs="people.xml#AGAB">Arn Gabel</persName>, <title level="a">“Make Way
+              for Making Waves,”</title>
+            <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 70 <date
+              when="1981">(1981)</date>, p. 12</bibl>
+          <bibl>
+            <persName sameAs="people.xml#RMET">Robin Metcalfe</persName>, <title level="a">“Making
+              Waves in Atlantic Canada,”</title>
+            <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 74 <date
+              when="1981">(1981)</date>, p. 17</bibl>
+          <bibl>
+            <title level="a">“New: Making Waves,”</title>
+            <placeName corresp="places.xml#FRE">Fredericton</placeName>
+            <title level="j" corresp="periodicals.xml#p368">FLAGMAG</title>, no. 4 <date when="1981"
+              >(1981)</date>, p. 7.</bibl>
 
 
         </event>
         <event xml:id="n81.190">
-          <p> <date from="1981-05-16" to="1981-05-16">May 16–18</date> <placeName corresp="places.xml#VAN">Vancouver</placeName> More than 500 women participated in the fifth <seg type="demonstration" corresp="demonstrations.xml#">Bi-national Lesbian
-            Conference</seg> <!-- MR: is it a demonstration? where is the id? -->, held at <placeName corresp="places.xml#LANG">Langara College</placeName>. The event drew women from across <placeName corresp="places.xml#CAN">Canada</placeName> to discuss
-            priorities such as childcare, fighting the Right, and the formation of a national
-            lesbian organization. There were plenary sessions, workshops, an art display (<title level="a">“Woman to
-            Woman,”</title> at <placeName corresp="places.xml#WFG">the Women in Focus Gallery</placeName>), and a dance featuring the lesbian rock band <orgName corresp="organizations.xml#MQ">Mama
-            Quilla II</orgName> (with <persName sameAs="people.xml#LSEG">Lorraine Segato</persName>). More than 200 women marched in <placeName corresp="places.xml#CAN">Canada</placeName>’s first lesbian
-            pride march, from <placeName corresp="places.xml#ROBSQ">Robson Square</placeName> through downtown <placeName corresp="places.xml#VAN">Vancouver</placeName> to the <placeName corresp="places.xml#WECC">WECC</placeName>. A final report,
-            <title level="m">Lesbian Power: Organizing for the 80s</title>, was published after the conference. </p>
-          <bibl><title level="a">“1981 Bi-national Lesbian Vandykescouver, B.C., Conference!”</title> <title level="j" corresp="periodicals.xml#p307">Lavender Sheets</title> <orgName corresp="organizations.xml#LOOT">(LOOT)</orgName>,
-            <date from="1980-06" to="1980-08">Summer 1980</date>, p. (3)</bibl>
-          <bibl> <title level="a">“1981 Lesbian Conference,”</title> <title level="j" corresp="periodicals.xml#p419">Gaze</title>, <date when="1981-06">June 1981</date>, p. (4)</bibl>
-          <bibl> 1981 Lesbian Conference Committee, <title level="a">“1981 Lesbian Conference,”</title> <title level="j" corresp="periodicals.xml#p121">VGCC News</title>, 2, no. 3
-            <date when="1981-03">(March 1981)</date>: 16</bibl>
-          <bibl> <persName sameAs="people.xml#CBEA">Chris Bearchell</persName>, <title level="a">“Lesbian Pride March Is a First for Canada,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 74
-            <date when="1981">(1981)</date>, p. 10</bibl>
-          <bibl> <persName sameAs="people.xml#P_RC">R.C.</persName>, <title level="a">“Vancouver Lesbian Conference,”</title> <title level="j" corresp="periodicals.xml#465">Making Waves</title> <placeName corresp="places.xml#HAL">(Halifax)</placeName>, no. 2 <date when="1981">(1981)</date>, p.
-            7</bibl>
-          <bibl> <persName sameAs="people.xml#DFIS">Diane Fisher</persName>, <title level="a">“1981 Lesbian Conference: Proposals from Workshops at the
-            Conference,”</title> <title level="j" corresp="periodicals.xml#p419">Gaze</title>, <date when="1981-09">September 1981</date>, pp. (5–7) and <title level="j" corresp="periodicals.xml#p419">Gaze</title>, <date when="1981-11">November 1981</date>, pp. (5–7)</bibl>
-          <bibl> <persName sameAs="people.xml#MFIT">Maureen FitzGerald</persName> and <persName sameAs="people.xml#DMOR">Daphne Morrison</persName>, <title level="a">“Lesbian Conference: Agony and Audacity,”</title>
-            <title level="j" corresp="periodicals.xml#p226">Broadside</title>, 2, no. 9 <date when="1981-07">(July 1981)</date>: 4</bibl>
-          <bibl> <persName type="editor" sameAs="people.xml#MFUL">Margaret Fulford, ed.,</persName> <title level="m">The Canadian Women’s Movement, 1960–1990: A Guide to
-            Archival Resources/Le mouvement canadien des femmes, 1960–1990: guide de ressources
-            archivistiques</title> (<placeName corresp="places.xml#TOR">Toronto:</placeName> <orgName corresp="organizations.xml#CWMA">Canadian Women’s Movement Archives</orgName>/<title level="j" corresp="periodicals.xml#p264">ECW Press</title>, <date when="1992">1992</date>), entry
-            67</bibl>
-          <bibl> <persName sameAs="people.xml#DKID">Dorothy Kidd</persName>, <title level="a">“1981 Lesbian Conference,”</title> <title level="j" corresp="periodicals.xml#p121">VGCC News</title>, 2, no. 6 <date when="1981-06">(June 1981)</date>: 14</bibl>
+          <p>
+            <date from="1981-05-16" to="1981-05-16">May 16–18</date>
+            <placeName corresp="places.xml#VAN">Vancouver</placeName> More than 500 women
+            participated in the fifth <seg type="demonstration" corresp="demonstrations.xml#"
+              >Bi-national Lesbian Conference</seg>
+             MR: This is not a demonstration -->, held at <placeName
+              corresp="places.xml#LANG">Langara College</placeName>. The event drew women from
+            across <placeName corresp="places.xml#CAN">Canada</placeName> to discuss priorities such
+            as childcare, fighting the Right, and the formation of a national lesbian organization.
+            There were plenary sessions, workshops, an art display (<title level="a">“Woman to
+              Woman,”</title> at <placeName corresp="places.xml#WFG">the Women in Focus
+              Gallery</placeName>), and a dance featuring the lesbian rock band <orgName
+              corresp="organizations.xml#MQ">Mama Quilla II</orgName> (with <persName
+              sameAs="people.xml#LSEG">Lorraine Segato</persName>). More than 200 women marched in
+              <placeName corresp="places.xml#CAN">Canada</placeName>’s first lesbian pride march,
+            from <placeName corresp="places.xml#ROBSQ">Robson Square</placeName> through downtown
+              <placeName corresp="places.xml#VAN">Vancouver</placeName> to the <placeName
+              corresp="places.xml#WECC">WECC</placeName>. A final report, <title level="m">Lesbian
+              Power: Organizing for the 80s</title>, was published after the conference. </p>
+          <bibl><title level="a">“1981 Bi-national Lesbian Vandykescouver, B.C.,
+              Conference!”</title>
+            <title level="j" corresp="periodicals.xml#p307">Lavender Sheets</title>
+            <orgName corresp="organizations.xml#LOOT">(LOOT)</orgName>, <date from="1980-06"
+              to="1980-08">Summer 1980</date>, p. (3)</bibl>
+          <bibl>
+            <title level="a">“1981 Lesbian Conference,”</title>
+            <title level="j" corresp="periodicals.xml#p419">Gaze</title>, <date when="1981-06">June
+              1981</date>, p. (4)</bibl>
+          <bibl> 1981 Lesbian Conference Committee, <title level="a">“1981 Lesbian
+              Conference,”</title>
+            <title level="j" corresp="periodicals.xml#p121">VGCC News</title>, 2, no. 3 <date
+              when="1981-03">(March 1981)</date>: 16</bibl>
+          <bibl>
+            <persName sameAs="people.xml#CBEA">Chris Bearchell</persName>, <title level="a">“Lesbian
+              Pride March Is a First for Canada,”</title>
+            <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 74 <date
+              when="1981">(1981)</date>, p. 10</bibl>
+          <bibl>
+            <persName sameAs="people.xml#P_RC">R.C.</persName>, <title level="a">“Vancouver Lesbian
+              Conference,”</title>
+            <title level="j" corresp="periodicals.xml#465">Making Waves</title>
+            <placeName corresp="places.xml#HAL">(Halifax)</placeName>, no. 2 <date when="1981"
+              >(1981)</date>, p. 7</bibl>
+          <bibl>
+            <persName sameAs="people.xml#DFIS">Diane Fisher</persName>, <title level="a">“1981
+              Lesbian Conference: Proposals from Workshops at the Conference,”</title>
+            <title level="j" corresp="periodicals.xml#p419">Gaze</title>, <date when="1981-09"
+              >September 1981</date>, pp. (5–7) and <title level="j" corresp="periodicals.xml#p419"
+              >Gaze</title>, <date when="1981-11">November 1981</date>, pp. (5–7)</bibl>
+          <bibl>
+            <persName sameAs="people.xml#MFIT">Maureen FitzGerald</persName> and <persName
+              sameAs="people.xml#DMOR">Daphne Morrison</persName>, <title level="a">“Lesbian
+              Conference: Agony and Audacity,”</title>
+            <title level="j" corresp="periodicals.xml#p226">Broadside</title>, 2, no. 9 <date
+              when="1981-07">(July 1981)</date>: 4</bibl>
+          <bibl>
+            <persName type="editor" sameAs="people.xml#MFUL">Margaret Fulford, ed.,</persName>
+            <title level="m">The Canadian Women’s Movement, 1960–1990: A Guide to Archival
+              Resources/Le mouvement canadien des femmes, 1960–1990: guide de ressources
+              archivistiques</title> (<placeName corresp="places.xml#TOR">Toronto:</placeName>
+            <orgName corresp="organizations.xml#CWMA">Canadian Women’s Movement
+              Archives</orgName>/<title level="j" corresp="periodicals.xml#p264">ECW Press</title>,
+              <date when="1992">1992</date>), entry 67</bibl>
+          <bibl>
+            <persName sameAs="people.xml#DKID">Dorothy Kidd</persName>, <title level="a">“1981
+              Lesbian Conference,”</title>
+            <title level="j" corresp="periodicals.xml#p121">VGCC News</title>, 2, no. 6 <date
+              when="1981-06">(June 1981)</date>: 14</bibl>
 
 
         </event>
         <event xml:id="n81.223">
-          <p> <date when="1981-06-05">June 5</date> <placeName corresp="places.xml#ATL">Atlanta,</placeName> Ga. <orgName corresp="organizations.xml#">The Centers for Disease Control (CDC)</orgName> reported that five gay men
-            in <placeName corresp="places.xml#LOS">Los Angeles</placeName> had been diagnosed with pneumocystis pneumonia, which was rare and
-            frequently fatal. This was the first official report from the <orgName corresp="organizations.xml#">CDC</orgName> concerning the health
-            crisis that would later become known as the AIDS pandemic. <seg corresp="#n81.273">(See also July 3, 1981.)</seg> </p>
-          <bibl><persName sameAs="people.xml#BLEW">Bill Lewis</persName> and <persName sameAs="people.xml#RCOA">Randy Coates</persName>, <title level="a">“Moral Lessons Fatal Cancer,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic,</title> no. 77 <date when="1981">(1981)</date>, p. 43</bibl>
-          <bibl> <persName sameAs="people.xml#JPEP">Jacques Pepin</persName>, <title level="m">The Origins of AIDS</title> (<placeName corresp="places.xml#">Cambridge</placeName>: <orgName corresp="organizations.xml#">Cambridge University Press</orgName>, <date when="2011">2011</date>),
-            293 pp.</bibl>
+          <p>
+            <date when="1981-06-05">June 5</date>
+            <placeName corresp="places.xml#ATL">Atlanta,</placeName> Ga. <orgName
+              corresp="organizations.xml#">The Centers for Disease Control (CDC)</orgName> reported
+            that five gay men in <placeName corresp="places.xml#LOS">Los Angeles</placeName> had
+            been diagnosed with pneumocystis pneumonia, which was rare and frequently fatal. This
+            was the first official report from the <orgName corresp="organizations.xml#"
+              >CDC</orgName> concerning the health crisis that would later become known as the AIDS
+            pandemic. <seg corresp="#n81.273">(See also July 3, 1981.)</seg>
+          </p>
+          <bibl><persName sameAs="people.xml#BLEW">Bill Lewis</persName> and <persName
+              sameAs="people.xml#RCOA">Randy Coates</persName>, <title level="a">“Moral Lessons
+              Fatal Cancer,”</title>
+            <title level="j" corresp="periodicals.xml#p10">Body Politic,</title> no. 77 <date
+              when="1981">(1981)</date>, p. 43</bibl>
+          <bibl>
+            <persName sameAs="people.xml#JPEP">Jacques Pepin</persName>, <title level="m">The
+              Origins of AIDS</title> (<placeName corresp="places.xml#">Cambridge</placeName>:
+              <orgName corresp="organizations.xml#">Cambridge University Press</orgName>, <date
+              when="2011">2011</date>), 293 pp.</bibl>
 
         </event>
         <event xml:id="n81.273">
-          <p> <date when="1981-07-03">July 3</date> <placeName corresp="places.xml#NY">New York,</placeName> N.Y. <title level="j" corresp="periodicals.xml#p147">The New York Times</title> published an article by <persName sameAs="people.xml#LALT">Lawrence K. Altman</persName>
-            entitled <title level="a">“Rare Cancer Seen in 41 Homosexuals,”</title> which was subsequently distributed
-            internationally by <orgName corresp="organizations.xml#">the New York Times News Service</orgName>. This was the first major mainstream
-            newspaper article to discuss the health crisis that would eventually become known as the
-            AIDS pandemic. An unnamed <title level="j" corresp="periodicals.xml#p10">Body Politic</title> reporter (likely <persName sameAs="people.xml#RCOA">Randy Coates</persName> and/or <persName sameAs="people.xml#BLEW">Bill Lewis</persName>)
-            dismissed the report as being biased and riddled with errors. </p>
-          <bibl><persName sameAs="people.xml#LALT">Lawrence K. Altman</persName>, <title level="a">“Rare Cancer Seen in 41 Homosexuals,”</title> <title level="j" corresp="periodicals.xml#p147">New York Times</title>, late city
-            ed., <date when="1981-07-03">3 July 1981</date>, p. A20</bibl>
-          <bibl> <persName 
-            sameAs="people.xml#AEMM">Alain Emmanuel Dreuilhe</persName>, <title level="a">“Le cancer gai”</title> (medical column), <title level="j" corresp="periodicals.xml#p175">Le Berdache</title>, no. 24
-            <date when="1981">(1981)</date>, p. 23</bibl>
+          <p>
+            <date when="1981-07-03">July 3</date>
+            <placeName corresp="places.xml#NY">New York,</placeName> N.Y. <title level="j"
+              corresp="periodicals.xml#p147">The New York Times</title> published an article by
+              <persName sameAs="people.xml#LALT">Lawrence K. Altman</persName> entitled <title
+              level="a">“Rare Cancer Seen in 41 Homosexuals,”</title> which was subsequently
+            distributed internationally by <orgName corresp="organizations.xml#">the New York Times
+              News Service</orgName>. This was the first major mainstream newspaper article to
+            discuss the health crisis that would eventually become known as the AIDS pandemic. An
+            unnamed <title level="j" corresp="periodicals.xml#p10">Body Politic</title> reporter
+            (likely <persName sameAs="people.xml#RCOA">Randy Coates</persName> and/or <persName
+              sameAs="people.xml#BLEW">Bill Lewis</persName>) dismissed the report as being biased
+            and riddled with errors. </p>
+          <bibl><persName sameAs="people.xml#LALT">Lawrence K. Altman</persName>, <title level="a"
+              >“Rare Cancer Seen in 41 Homosexuals,”</title>
+            <title level="j" corresp="periodicals.xml#p147">New York Times</title>, late city ed.,
+              <date when="1981-07-03">3 July 1981</date>, p. A20</bibl>
+          <bibl>
+            <persName sameAs="people.xml#AEMM">Alain Emmanuel Dreuilhe</persName>, <title level="a"
+              >“Le cancer gai”</title> (medical column), <title level="j"
+              corresp="periodicals.xml#p175">Le Berdache</title>, no. 24 <date when="1981"
+              >(1981)</date>, p. 23</bibl>
 
 
         </event>

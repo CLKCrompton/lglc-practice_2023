@@ -28,8 +28,8 @@
         <respStmt>
           <resp>Encoded by</resp>
           <persName sameAs="people.xml#">
-            <forename><!-- your first name --></forename>
-            <surname><!-- your last name --></surname>
+            <forename> your first name --></forename>
+            <surname> your last name --></surname>
           </persName>
         </respStmt>
       </titleStmt>
@@ -61,7 +61,7 @@
     <body>
       <listEvent n="1981">
         <event xml:id="n81.1">
-          <!-- MR: No self-closing tag  -->
+           <!--MR: No self-closing tag  -->
           <p>
             <placeName corresp="places.xml#MON">Montréal</placeName>
             <title level="a">Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes
@@ -69,7 +69,7 @@
             and surveying the state of lesbian life in <placeName corresp="places.xml#MON"
               >Montréal</placeName>, was released by <orgName corresp="organizations.xml#">Video
               Amazone</orgName>
-            <!-- MR:no id -->. </p>
+             MR:no id -->. </p>
           <bibl><title level="a">“Amazones d’hier, lesbiennes d’aujourd’hui,”</title>
             <persName sameAs="people.xml#LEB">Le Berdache</persName>, no. 25 <date when="1981"
               >(1981)</date>, p. 8</bibl>
@@ -156,7 +156,7 @@
             <date from="1981-01" to="1981-02">January–February</date>
             <placeName corresp="places.xml#OTT">Ottawa</placeName>
             <orgName corresp="organizations.xml#">The Ottawa Children’s Aid Society (CAS)</orgName>
-            confirmed that it <!-- I'm the greatest --> would consider placing children with
+            confirmed that it  I'm the greatest --> would consider placing children with
             homosexual foster parents, but only as a last resort. Preference was to be given to
             placing children in a “normalized setting,” with heterosexual parents. <persName
               sameAs="people.xml#RGAL">Roger Galipeau</persName>, president of <orgName
@@ -267,7 +267,7 @@
             <placeName corresp="places.xml#VAN">Vancouver</placeName> More than 500 women
             participated in the fifth <seg type="demonstration" corresp="demonstrations.xml#"
               >Bi-national Lesbian Conference</seg>
-            <!-- MR: This is not a demonstration -->, held at <placeName
+             MR: This is not a demonstration -->, held at <placeName
               corresp="places.xml#LANG">Langara College</placeName>. The event drew women from
             across <placeName corresp="places.xml#CAN">Canada</placeName> to discuss priorities such
             as childcare, fighting the Right, and the formation of a national lesbian organization.

@@ -65,20 +65,18 @@
             one-hour-and-forty-five-minute video made for lesbians only and surveying the state of
             lesbian life in Montréal, was released by <orgName corresp="organizations.xml#VA">Video Amazone</orgName>. </p>
           <bibl>“Amazones d’hier, lesbiennes d’aujourd’hui,” <title level="j" corresp="periodical.xml#p175">Le Berdache</title>, no. 25 (1981), p. 8</bibl>
-          <bibl> “Amazons Then, Lesbians Now,” Lesbian/Lesbienne, 1, no. 3 (1981): 4.</bibl>
+          <bibl> <title level="a">“Amazons Then, Lesbians Now,”</title> <orgName corresp="priodicals.xml#p450">Lesbian/Lesbienne</orgName>, 1, no. 3 (1981): <seg corresp="n81.1">4</seg>.</bibl>
 
         </event>
         <event xml:id="n81.14">
-          <p> <placeName corresp="organizations.xml#VAN">Vancouver</placeName><persName sameAs="people.xml#SWAT">Scott Watson</persName>’s book of stories Platonic Love: Three Tales of Language and
-            Desire was published by <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
-          <bibl><persName sameAs="people.xml#DLAR">Don Larventz</persName>, <title level="m">“The Fiction of Sexual Truth” (review)</title>, <title level="j" corresp="periodical.xml#p10">Body Politic</title>, no. 78 (1981),
+          <p> <placeName corresp="organizations.xml#VAN">Vancouver</placeName><persName sameAs="people.xml#SWAT">Scott Watson</persName>’s book of stories <title level="m">Platonic Love: Three Tales of Language and
+            Desire</title> was published by <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
+          <bibl><persName sameAs="people.xml#DLAR">Don Larventz</persName>, <title level="m">“The Fiction of Sexual Truth” </title> (review), <title level="j" corresp="periodical.xml#p10">Body Politic</title>, no. 78 (1981),
             <seg corresp="n81.14">p. 33</seg></bibl>
-          <bibl> Don Officer, <title level="m">“Beyond the Point” </title>(review), Books in <placeName corresp="places.xml#CAN">Canada</placeName>, January 1982, pp.
-            15–16</bibl>
-          <bibl> <persName sameAs="people.xml#GOXF">Gerry Oxford</persName>, <title level="m">“Platonic Love”</title> (review), <title level="j" >Quill &amp; Quire</title>, January 1982, pp.
-            31–32</bibl>
-          <bibl> Simon Ruddell, “Street Life” (review), Canadian Literature, no. 95 (1982), pp.
-            143–44</bibl>
+          <bibl> <persName sameAs="DOFF">Don Officer</persName>, <title level="m">“Beyond the Point” </title>(review), Books in <placeName corresp="places.xml#CAN">Canada</placeName>, January 1982, <seg corresp="n81.14">pp.15–16</seg></bibl>
+          <bibl> <persName sameAs="people.xml#GOXF">Gerry Oxford</persName>, <title level="m">“Platonic Love”</title> (review), <title level="j" >Quill &amp; Quire</title>, January 1982, <seg corresp="n81.14">pp.
+            31–32</seg></bibl>
+          <bibl> <persName sameAs="SRUD">Simon Ruddell</persName>, <title level="a">“Street Life”</title> (review), <title level="j" corresp="priodicals.xml#p109">Canadian Literature</title>, no. 95 (1982), <seg corresp="n81.14">pp.143–44</seg></bibl>
           <bibl> <persName sameAs="people.xml#IYOU">Ian Young</persName>, <title level="m">The Male Homosexual in Literature: A Bibliography</title>, second ed. (<placeName corresp="places.xml#MET">Metuchen</placeName>,
             N.J.: <orgName corresp="organizations.xml#SP">Scarecrow Press</orgName>, 1982), entry 4013.</bibl>
 

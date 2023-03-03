@@ -73,19 +73,19 @@
             Desire was published by <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
           <bibl><persName sameAs="people.xml#DLAR">Don Larventz</persName>, <title level="m">“The Fiction of Sexual Truth” (review)</title>, <title level="j" corresp="periodical.xml#p10">Body Politic</title>, no. 78 (1981),
             <seg corresp="n81.14">p. 33</seg></bibl>
-          <bibl> Don Officer, <title level="m">“Beyond the Point” (review)</title>, Books in <placeName corresp="places.xml#CAN">Canada</placeName>, January 1982, pp.
+          <bibl> Don Officer, <title level="m">“Beyond the Point” </title>(review), Books in <placeName corresp="places.xml#CAN">Canada</placeName>, January 1982, pp.
             15–16</bibl>
-          <bibl> Gerry Oxford, “Platonic Love” (review), Quill &amp; Quire, January 1982, pp.
+          <bibl> <persName sameAs="people.xml#GOXF">Gerry Oxford</persName>, <title level="m">“Platonic Love”</title> (review), <title level="j" >Quill &amp; Quire</title></orgName>, January 1982, pp.
             31–32</bibl>
           <bibl> Simon Ruddell, “Street Life” (review), Canadian Literature, no. 95 (1982), pp.
             143–44</bibl>
-          <bibl> <persName sameAs="people.xml#IYOU">Ian Young</persName>, The Male Homosexual in Literature: A Bibliography, second ed. (Metuchen,
-            N.J.: Scarecrow Press, 1982), entry 4013.</bibl>
+          <bibl> <persName sameAs="people.xml#IYOU">Ian Young</persName>, <title level="m">The Male Homosexual in Literature: A Bibliography</title>, second ed. (<placeName corresp="places.xml#MET">Metuchen</placeName>,
+            N.J.: <orgName corresp="organizations.xml#SP">Scarecrow Press</orgName>, 1982), entry 4013.</bibl>
 
         </event>
         <event xml:id="n81.30">
           <p> <date when="1981-01-26">January 26</date> <placeName corresp="places.xml#TOR">Toronto</placeName> <persName sameAs="people.xml#LLAK">Lynne Lake</persName>, the mother of two schoolchildren, reopened debate on
-            sexual orientation bias at the Toronto Board of Education when she made an emotional
+            sexual orientation bias at the <orgName corresp="organizations.xml#TBE">Toronto Board of Education</orgName> when she made an emotional
             plea to the schools programs committee. Lake demanded that the trustees rescind a motion
             passed <date when="1980-09-18">September 18, 1980</date>, which prohibited “bias on the basis of sex or sexual
             orientation,” and which specifically permitted “discussion of homosexuality” in schools.
@@ -105,7 +105,7 @@
 
         </event>
         <event xml:id="n81.35">
-          <p> <date from="1981-01" to="1981-02">January–February</date> <placeName corresp="places.xml#OTT">Ottawa</placeName> The Ottawa Children’s Aid Society (CAS)confirmed that it
+          <p> <date from="1981-01" to="1981-02">January–February</date> <placeName corresp="places.xml#OTT">Ottawa</placeName> <orgName corresp="organizations.xml#OCAS">The Ottawa Children’s Aid Society (CAS)</orgName>confirmed that it
             <!-- I'm the greatest --> would consider placing children with homosexual foster
             parents, but only as a last resort. Preference was to be given to placing children in a
             “normalized setting,” with heterosexual parents. <persName sameAs="people.xml#RGAL">Roger Galipeau</persName>, president of <orgName corresp="organizations.xml#GO">GO</orgName>, called

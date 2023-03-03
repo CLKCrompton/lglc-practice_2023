@@ -9505,7 +9505,7 @@
                                 <addrLine corresp="#VAN"/>
                             </address>
                         </location>
-                    </place>
+                    </place> 
 
                 </listPlace>
                 <relation name="religion" active="#MCCO" passive="#PROTESTANTISM"/>

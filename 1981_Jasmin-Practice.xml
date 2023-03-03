@@ -61,9 +61,10 @@
     <body>
       <listEvent n="1981">
         <event xml:id="n81.1">
+          <!-- MR: No self-closing tag  -->
           <p> <placeName corresp="places.xml#MON">Montréal</placeName> <title level="a">Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui</title>, a
             one-hour-and-forty-five-minute video made for lesbians only and surveying the state of
-            lesbian life in <placeName corresp="places.xml#MON">Montréal</placeName>, was released by <orgName corresp="organizations.xml#">Video Amazone</orgName>. </p>
+            lesbian life in <placeName corresp="places.xml#MON">Montréal</placeName>, was released by <orgName corresp="organizations.xml#">Video Amazone</orgName> <!-- MR:no id -->. </p>
           <bibl><title level="a">“Amazones d’hier, lesbiennes d’aujourd’hui,”</title> <persName sameAs="people.xml#LEB">Le Berdache</persName>, no. 25 <date when="1981">(1981)</date>, p. 8</bibl>
           <bibl> <title level="a">“Amazons Then, Lesbians Now,”</title> <title level="j" corresp="periodicals.xml#p302">Lesbian/Lesbienne</title>, 1, no. 3 <date when="1981">(1981)</date>: 4.</bibl>
 
@@ -162,7 +163,7 @@
         </event>
         <event xml:id="n81.190">
           <p> <date from="1981-05-16" to="1981-05-16">May 16–18</date> <placeName corresp="places.xml#VAN">Vancouver</placeName> More than 500 women participated in the fifth <seg type="demonstration" corresp="demonstrations.xml#">Bi-national Lesbian
-            Conference</seg>, held at <placeName corresp="places.xml#LANG">Langara College</placeName>. The event drew women from across <placeName corresp="places.xml#CAN">Canada</placeName> to discuss
+            Conference</seg> <!-- MR: is it a demonstration? where is the id? -->, held at <placeName corresp="places.xml#LANG">Langara College</placeName>. The event drew women from across <placeName corresp="places.xml#CAN">Canada</placeName> to discuss
             priorities such as childcare, fighting the Right, and the formation of a national
             lesbian organization. There were plenary sessions, workshops, an art display (<title level="a">“Woman to
             Woman,”</title> at <placeName corresp="places.xml#WFG">the Women in Focus Gallery</placeName>), and a dance featuring the lesbian rock band <orgName corresp="organizations.xml#MQ">Mama

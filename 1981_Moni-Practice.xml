@@ -192,7 +192,7 @@
           <bibl><persName sameAs="people.xml#MEHO">Merylie Houston</persName>, <title level="a">“A
               Parent Speaks Out: The Gay Issue at the Board: The Latest Round,”</title>
             <title level="j" corresp="periodicals.xml#p715">Mudpie</title> (Toronto), 2, no. 3
-            (March 1981): 2</bibl>
+            (March 1981): <seg corresp="#n81.72">2</seg></bibl>
           <bibl>
             <title level="a">“Pros and Cons Clash over Gays in Classroom: Education Board
               Debate,”</title>
@@ -277,7 +277,7 @@
             <title level="j" corresp="periodicals.xml#p35"> Gaze </title>, June 1981, <seg
               corresp="#n81.190">p. (4)</seg></bibl>
           <bibl> 1981 Lesbian Conference Committee, “1981 Lesbian Conference,” VGCC News, 2, no. 3
-            (March 1981): 16</bibl>
+            (March 1981): <seg corresp="#n81.190">16</seg></bibl>
           <bibl> Chris Bearchell, “Lesbian Pride March Is a First for Canada,” <title level="j"
               corresp="periodicals.xml# p10">Body Politic</title>, no. 74 (1981), p. 10</bibl>
           <bibl> R.C., “Vancouver Lesbian Conference,” Making Waves (Halifax), no. 2 (1981), p.
@@ -304,7 +304,7 @@
             <persName sameAs="people.xml#DKID">Dorothy Kidd</persName>, <title level="a">“1981
               Lesbian Conference,”</title>
             <title level="j" corresp="periodicals.xml#p121">VGCC News</title>, 2, no. 6 (June 1981):
-            14</bibl>
+            <seg corresp="#n81.190">14</seg></bibl>
         </event>
 
         <event xml:id="n81.223">

@@ -115,11 +115,11 @@
 
         </event>
         <event xml:id="n81.71">
-          <p> February 23 Toronto Three weeks of public hearings on Bill 209, an Act to Amend the
+          <p> <date when="1981-02-23">February 23</date> <placeName corresp="places.xml#TOR">Toronto</placeName> Three weeks of public hearings on Bill 209, an Act to Amend the
             Ontario Human Rights Code, were slated to begin before the Social Development Committee
-            of the Ontario Legislature. </p>
-          <bibl>Chris Bearchell, “Strange Bedfellows?” Body Politic, no. 70 (1981), pp.
-            10–11.</bibl>
+            of the <placeName corresp="places.xml#QP">Ontario Legislature</placeName>. </p>
+          <bibl><persName corresp="people.xml#CBEA">Chris Bearchell</persName>, <title level="j">“Strange Bedfellows?”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 70 (1981), <seg>pp.
+            10–11.</seg></bibl>
 
         </event>
         <event xml:id="n81.72">

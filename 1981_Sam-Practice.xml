@@ -28,8 +28,8 @@
         <respStmt>
           <resp>Encoded by</resp>
           <persName sameAs="people.xml#">
-            <forename><!-- your first name --></forename>
-            <surname><!-- your last name --></surname>
+            <forename><!-- Sam --></forename>
+            <surname><!-- Lehn --></surname>
           </persName>
         </respStmt>
       </titleStmt>
@@ -81,7 +81,7 @@
             143–44</seg></bibl>
           <bibl> <persName corresp="people.xml#IYOU">Ian Young</persName>, <title level="m">The Male Homosexual in Literature: A Bibliography, second ed.</title> (Metuchen,
             N.J.: Scarecrow Press, 1982), <seg>entry 4013</seg>.</bibl>
-          <!-- What is the best way to know j vs m for title level -->
+          
         </event>
         <event xml:id="n81.30">
           <p> <date when="1981-01-26">January 26</date> <placeName corresp="places.xml#TOR">Toronto</placeName> <persName corresp="people.xml#LLAK">Lynne Lake</persName>, the mother of two schoolchildren, reopened debate on
@@ -93,7 +93,7 @@
             activist <persName corresp="people.xml#JARG">John Argue</persName>, the chairman of the <orgName corresp="organizations.xml#MTNDP">Metro Toronto NDP</orgName>, had used political pressure
             to swing the vote in favour of the anti-discrimination motion. After some vigorous
             debate, the issue was referred to a special meeting of the full board of education to be
-            held <date when="1981-02-23">February 23, 1981</date>. <!-- do we encode the dates that are mentionned in the event? --><!-- How do I add a see also when idk where the piece is currently -->(See also February 23, 1981.) </p>
+            held February 23, 1981(See also February 23, 1981.) </p>
           <bibl><persName corresp="people.xml#RBIR">Rick Brennan</persName>, <title level="j">“No Homosexual Lesson for Her Kids,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed., 17
             February 1981, <seg>p. C18</seg></bibl>
           <bibl> <persName corresp="people.xml#VICO">Virginia Corner</persName>, <title level="j">“Homosexual Issue Revived by Mom’s Ire,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star
@@ -106,7 +106,7 @@
         </event>
         <event xml:id="n81.35">
           <p> <date from="1981-01" to="1981-02">January–February</date> <placeName corresp="places.xml#OTT">Ottawa</placeName> <orgName corresp="organizations.xml#OCAS">The Ottawa Children’s Aid Society (CAS)</orgName> confirmed that it
-            <!-- I'm the greatest --> would consider placing children with homosexual foster
+            would consider placing children with homosexual foster
             parents, but only as a last resort. Preference was to be given to placing children in a
             “normalized setting,” with heterosexual parents. <persName corresp="people.xml#BRGA">Roger Galipeau</persName>, president of <orgName corresp="organizations.xml#GO">GO</orgName>, called
             the policy discriminatory and asked CAS to reconsider its position. </p>

@@ -94,24 +94,24 @@
             to swing the vote in favour of the anti-discrimination motion. After some vigorous
             debate, the issue was referred to a special meeting of the full board of education to be
             held <date when="1981-02-23">February 23, 1981</date>. <!-- do we encode the dates that are mentionned in the event? --><!-- How do I add a see also when idk where the piece is currently -->(See also February 23, 1981.) </p>
-          <bibl>Rick Brennan, “No Homosexual Lesson for Her Kids,” Toronto Star, four star ed., 17
-            February 1981, p. C18</bibl>
-          <bibl> Virginia Corner, “Homosexual Issue Revived by Mom’s Ire,” Toronto Star, four star
-            ed., 27 January 1981, p. A3</bibl>
-          <bibl> Bruce A. McLeod, “Mom Battles Board Over Stand on Gays,” Toronto Sun, 17 February
-            1981, p. 18</bibl>
-          <bibl> Roger Spalding, “Mother’s Plea to School Board Reopens Debate on Ban on Bias,” Body
-            Politic, no. 71 (1981), p. 13.</bibl>
+          <bibl><persName corresp="people.xml#RBIR">Rick Brennan</persName>, <title level="j">“No Homosexual Lesson for Her Kids,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed., 17
+            February 1981, <seg>p. C18</seg></bibl>
+          <bibl> <persName corresp="people.xml#VICO">Virginia Corner</persName>, <title level="j">“Homosexual Issue Revived by Mom’s Ire,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star
+            ed., 27 January 1981, <seg>p. A3</seg></bibl>
+          <bibl> <persName corresp="people.xml#BAMC">Bruce A. McLeod</persName>, <title level="j">“Mom Battles Board Over Stand on Gays,”</title> <title level="j" corresp="periodicals.xml#p168">Toronto Sun</title>, 17 February
+            1981, <seg>p. 18</seg></bibl>
+          <bibl> <persName corresp="people.xml#RSPA">Roger Spalding</persName>, <title level="j">“Mother’s Plea to School Board Reopens Debate on Ban on Bias,”</title> <title level="j" corresp="periodicals.xml#p10">Body
+            Politic</title>, no. 71 (1981), <seg>p. 13.</seg></bibl>
 
         </event>
         <event xml:id="n81.35">
-          <p> January–February Ottawa The Ottawa Children’s Aid Society (CAS) confirmed that it
+          <p> <date from="1981-01-01" to="1981-02-01">January–February</date> <placeName corresp="places.xml#OTT">Ottawa</placeName> <orgName corresp="organizations.xml#OCAS">The Ottawa Children’s Aid Society (CAS)</orgName> confirmed that it
             <!-- I'm the greatest --> would consider placing children with homosexual foster
             parents, but only as a last resort. Preference was to be given to placing children in a
-            “normalized setting,” with heterosexual parents. Roger Galipeau, president of GO, called
+            “normalized setting,” with heterosexual parents. <persName corresp="people.xml#BRGA">Roger Galipeau</persName>, president of <orgName corresp="organizations.xml#GO">GO</orgName>, called
             the policy discriminatory and asked CAS to reconsider its position. </p>
-          <bibl>David Garmaise, “Gay Foster Parents a Last Resort: CAS,” Body Politic, no. 71
-            (1981), p. 14.</bibl>
+          <bibl><persName corresp="people.xml#DGAR">David Garmaise</persName>, <title level="j">“Gay Foster Parents a Last Resort: CAS,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 71
+            (1981), <seg>p. 14.</seg></bibl>
 
         </event>
         <event xml:id="n81.71">

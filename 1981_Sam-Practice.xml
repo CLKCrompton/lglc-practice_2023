@@ -87,7 +87,7 @@
           <p> <date when="1981-01-26">January 26</date> <placeName corresp="places.xml#TOR">Toronto</placeName> <persName corresp="people.xml#LLAK">Lynne Lake</persName>, the mother of two schoolchildren, reopened debate on
             sexual orientation bias at the <orgName corresp="organizations.xml#TBE">Toronto Board of Education</orgName> when she made an emotional
             plea to the schools programs committee. Lake demanded that the trustees rescind a motion
-            passed <date when="1980-09-18">September 18, 1980</date>, which prohibited “bias on the basis of sex or sexual
+            passed September 18, 1980, which prohibited “bias on the basis of sex or sexual
             orientation,” and which specifically permitted “discussion of homosexuality” in schools.
             Lake also claimed that the <orgName corresp="organizations.xml#NDP">NDP</orgName> had been “exploiting the (gay) issue” and that gay
             activist <persName corresp="people.xml#JARG">John Argue</persName>, the chairman of the <orgName corresp="organizations.xml#MTNDP">Metro Toronto NDP</orgName>, had used political pressure
@@ -171,47 +171,46 @@
             Lesbian Power: Organizing for the 80s, was published after the conference. </p>
           <bibl><title level="j">“1981 Bi-national Lesbian Vandykescouver, B.C., Conference!”</title> <title level="j" corresp="periodicals.xml#p716">Lavender Sheets (LOOT)</title>,
             Summer 1980, <seg>p. (3)</seg></bibl>
-          <bibl> “1981 Lesbian Conference,” Gaze, <!-- In the periodicals doc but no XmlID???--> June 1981, p. (4)</bibl>
-          <bibl> 1981 Lesbian Conference Committee, “1981 Lesbian Conference,” VGCC News, 2, no. 3
-            (March 1981): 16</bibl>
-          <bibl> Chris Bearchell, “Lesbian Pride March Is a First for Canada,” Body Politic, no. 74
-            (1981), p. 10</bibl>
-          <bibl> R.C., “Vancouver Lesbian Conference,” Making Waves (Halifax), no. 2 (1981), p.
-            7</bibl>
-          <bibl> Diane Fisher, “1981 Lesbian Conference: Proposals from Workshops at the
-            Conference,” Gaze, September 1981, pp. (5–7) and Gaze, November 1981, pp. (5–7)</bibl>
-          <bibl> Maureen FitzGerald and Daphne Morrison, “Lesbian Conference: Agony and Audacity,”
-            Broadside, 2, no. 9 (July 1981): 4</bibl>
-          <bibl> Margaret Fulford, ed., The Canadian Women’s Movement, 1960–1990: A Guide to
+          <bibl> <title level="j">“1981 Lesbian Conference,”</title> <title level="j" corresp="periodicals.xml#p35">Gaze</title>, June 1981, <seg>p. (4)</seg></bibl>
+          <bibl> 1981 Lesbian Conference Committee, <!-- Not sure what to put here around the author if any --> <title level="j">“1981 Lesbian Conference,”</title> <title level="j" corresp="periodicals.xml#p121">VGCC News</title>, 2, no. 3
+            (March 1981): <seg>16</seg></bibl>
+          <bibl> <persName corresp="people.xml#CBEA">Chris Bearchell</persName>, <title level="j">“Lesbian Pride March Is a First for Canada,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 74
+            (1981), <seg>p. 10</seg></bibl>
+          <bibl> R.C.,<!-- Not sure how to identify this author--> <title level="j">“Vancouver Lesbian Conference,”</title> <title level="j" corresp="periodicals.xml#p465">Making Waves</title> (Halifax), no. 2 (1981), <seg>p.
+            7</seg></bibl>
+          <bibl> <persName corresp="people.xml#DIFI">Diane Fisher</persName>, <title level="j">“1981 Lesbian Conference: Proposals from Workshops at the
+            Conference,”</title> <title level="j" corresp="periodicals.xml#p35">Gaze</title>, September 1981, pp. <seg>(5–7)</seg> and Gaze, November 1981, pp. <seg>(5–7)</seg></bibl>
+          <bibl> <persName corresp="people.xml#MFIT">Maureen FitzGerald</persName> and <persName corresp="people.xml#DAMO">Daphne Morrison</persName>, <title level="j">“Lesbian Conference: Agony and Audacity,”</title>
+            <title level="j" corresp="periodicals.xml#p226">Broadside</title>, 2, no. 9 (July 1981): <seg>4</seg></bibl>
+          <bibl> <persName corresp="people.xml#MFUL">Margaret Fulford</persName>, ed., <title level="m">The Canadian Women’s Movement, 1960–1990: A Guide to
             Archival Resources/Le mouvement canadien des femmes, 1960–1990: guide de ressources
-            archivistiques (Toronto: Canadian Women’s Movement Archives/ECW Press, 1992), entry
+            archivistiques</title> (Toronto: Canadian Women’s Movement Archives/ECW Press, 1992), entry
             67</bibl>
-          <bibl> Dorothy Kidd, “1981 Lesbian Conference,” VGCC News, 2, no. 6 (June 1981): 14</bibl>
+          <bibl> <persName corresp="people.xml#DKID">Dorothy Kidd</persName>, <title level="j">“1981 Lesbian Conference,”</title> <title level="j" corresp="periodicals.xml#121">VGCC News</title>, 2, no. 6 (June 1981): <seg>14</seg></bibl>
 
 
         </event>
         <event xml:id="n81.223">
-          <p> June 5 Atlanta, Ga. The Centers for Disease Control (CDC) reported that five gay men
+          <p> <date when="1981-06-05">June 5</date> <placeName corresp="places.xml#ATL">Atlanta, Ga</placeName>. The <orgName corresp="organizations.xml#CDC">Centers for Disease Control (CDC)</orgName> reported that five gay men
             in Los Angeles had been diagnosed with pneumocystis pneumonia, which was rare and
             frequently fatal. This was the first official report from the CDC concerning the health
             crisis that would later become known as the AIDS pandemic. (See also July 3, 1981.) </p>
-          <bibl>Bill Lewis and Randy Coates, “Moral Lessons</bibl>
-          <bibl> Fatal Cancer,” Body Politic, no. 77 (1981), p. 43</bibl>
-          <bibl> Jacques Pepin, The Origins of AIDS (Cambridge: Cambridge University Press, 2011),
+          <bibl><persName corresp="people.xml#BLEW">Bill Lewis</persName> and <persName corresp="people.xml#RACO">Randy Coates</persName>, <title level="j">“Moral Lessons Fatal Cancer,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 77 (1981), <seg>p. 43</seg></bibl>
+          <bibl> <persName corresp="people.xml#JAPE">Jacques Pepin</persName>, <title level="m">The Origins of AIDS</title> (Cambridge: Cambridge University Press, 2011),
             293 pp.</bibl>
 
         </event>
         <event xml:id="n81.273">
-          <p> July 3 New York, N.Y. The New York Times published an article by Lawrence K. Altman
+          <p> <date when="1981-07-03">July 3</date> <placeName corresp="places.xml#NEW">New York, N.Y.</placeName> The New York Times published an article by <persName corresp="people.xml#LAKA">Lawrence K. Altman</persName>
             entitled “Rare Cancer Seen in 41 Homosexuals,” which was subsequently distributed
             internationally by the New York Times News Service. This was the first major mainstream
             newspaper article to discuss the health crisis that would eventually become known as the
             AIDS pandemic. An unnamed Body Politic reporter (likely Randy Coates and/or Bill Lewis)
             dismissed the report as being biased and riddled with errors. </p>
-          <bibl>Lawrence K. Altman, “Rare Cancer Seen in 41 Homosexuals,” New York Times, late city
-            ed., 3 July 1981, p. A20</bibl>
-          <bibl> Alain Emmanuel Dreuilhe, “Le cancer gai” (medical column), Le Berdache, no. 24
-            (1981), p. 23</bibl>
+          <bibl><persName corresp="people.xml#LAKA">Lawrence K. Altman</persName>, <title level="j">“Rare Cancer Seen in 41 Homosexuals,”</title> <title level="j" corresp="periodicals.xml#p147">New York Times</title>, late city
+            ed., 3 July 1981, <seg>p. A20</seg></bibl>
+          <bibl> <persName corresp="people.xml#ALED">Alain Emmanuel Dreuilhe</persName>, <title level="j">“Le cancer gai”</title> (medical column), <title level="j" corresp="periodicals.xml#p175">Le Berdache</title>, no. 24
+            (1981), <seg>p. 23</seg></bibl>
 
 
         </event>

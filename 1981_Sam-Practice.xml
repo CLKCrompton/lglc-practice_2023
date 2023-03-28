@@ -28,8 +28,8 @@
         <respStmt>
           <resp>Encoded by</resp>
           <persName sameAs="people.xml#">
-            <forename><!-- Sam --></forename>
-            <surname><!-- Lehn --></surname>
+            <forename>Sam</forename>
+            <surname>Lehn</surname>
           </persName>
         </respStmt>
       </titleStmt>
@@ -177,7 +177,7 @@
             (March 1981): <seg>16</seg></bibl>
           <bibl> <persName corresp="people.xml#CBEA">Chris Bearchell</persName>, <title level="j">“Lesbian Pride March Is a First for Canada,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 74
             (1981), <seg>p. 10</seg></bibl>
-          <bibl>  <!-- tag as pseudonym, instructions in TEI wiki JM --> R.C.,<!-- Not sure how to identify this author--> <title level="j">“Vancouver Lesbian Conference,”</title> <title level="j" corresp="periodicals.xml#p465">Making Waves</title> (Halifax), no. 2 (1981), <seg>p.
+          <bibl><persName sameAs="people.xml#P_RC">R.C</persName>.,<title level="j">“Vancouver Lesbian Conference,”</title> <title level="j" corresp="periodicals.xml#p465">Making Waves</title> (Halifax), no. 2 (1981), <seg>p.
             7</seg></bibl>
           <bibl> <persName corresp="people.xml#DIFI">Diane Fisher</persName>, <title level="a">“1981 Lesbian Conference: Proposals from Workshops at the
             Conference,”</title> <title level="j" corresp="periodicals.xml#p35">Gaze</title>, September 1981, pp. <seg>(5–7)</seg> and Gaze, November 1981, pp. <seg>(5–7)</seg></bibl>

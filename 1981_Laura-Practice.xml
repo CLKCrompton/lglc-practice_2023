@@ -28,8 +28,8 @@
         <respStmt>
           <resp>Encoded by</resp>
           <persName sameAs="people.xml#">
-            <forename>Candice</forename>
-            <surname>Lipski</surname>
+            <forename>Laura</forename>
+            <surname>Hanikenne</surname>
           </persName>
         </respStmt>
       </titleStmt>
@@ -84,7 +84,7 @@
 
         </event>
         <event xml:id="n81.30">
-          <p> January 26 Toronto <persName sameAs="people.xml#HKARE">Helen Karemi</persName>, the mother of two schoolchildren, reopened debate on
+          <p> January 26 Toronto Lynne Lake, the mother of two schoolchildren, reopened debate on
             sexual orientation bias at the Toronto Board of Education when she made an emotional
             plea to the schools programs committee. Lake demanded that the trustees rescind a motion
             passed September 18, 1980, which prohibited “bias on the basis of sex or sexual
@@ -123,7 +123,7 @@
 
         </event>
         <event xml:id="n81.72">
-          <p> February 23 Toronto The Toronto Board of Education overturned two resolutions to ban
+          <p> <date when="1981-02-23">February 23 </date>Toronto The Toronto Board of Education overturned two resolutions to ban
             discrimination against gays it had instituted in September 1980, by a vote of fourteen
             to twelve, and replaced them with more conservative ones. Thirty-eight speakers
             addressed the full board meeting, which lasted more than seven hours. The trustees voted

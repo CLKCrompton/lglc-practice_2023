@@ -28,8 +28,8 @@
         <respStmt>
           <resp>Encoded by</resp>
           <persName sameAs="people.xml#">
-            <forename><!-- your first name --></forename>
-            <surname><!-- your last name --></surname>
+            <forename>Alice</forename>
+            <surname>Defours</surname>
           </persName>
         </respStmt>
       </titleStmt>

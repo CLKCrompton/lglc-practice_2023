@@ -80,17 +80,27 @@
             <placeName corresp="organizations.xml#VAN">Vancouver</placeName>
             <persName sameAs="people.xml#SWAT">Scott Watson</persName>’s book of stories <title
               level="m">Platonic Love: Three Tales of Language and Desire</title> was published by
-            New Star Books. </p>
-          <bibl>Don Larventz, “The Fiction of Sexual Truth” (review), Body Politic, no. 78 (1981),
-            p. 33</bibl>
-          <bibl> Don Officer, “Beyond the Point” (review), Books in Canada, January 1982, pp.
-            15–16</bibl>
-          <bibl> Gerry Oxford, “Platonic Love” (review), Quill &amp; Quire, January 1982, pp.
-            31–32</bibl>
-          <bibl> Simon Ruddell, “Street Life” (review), Canadian Literature, no. 95 (1982), pp.
-            143–44</bibl>
-          <bibl> Ian Young, The Male Homosexual in Literature: A Bibliography, second ed. (Metuchen,
-            N.J.: Scarecrow Press, 1982), entry 4013.</bibl>
+              <orgName corresp="organizations.xml#">New Star
+            Books</orgName><!-- ?Couldn't find corresp? -->.</p>
+          <bibl><persName sameAs="people.xml#DLAR">Don Larventz</persName>, “<title level="a">The
+              Fiction of Sexual Truth</title><!-- Artcile? -->” (review), Body Politic, no. 78
+            (1981), p. <seg corresp="n81.14">33</seg></bibl>
+          <!-- TEI leaves out punctuation (LGLC doc says too) but Fari and Moni.xml are <seg corresp="n81.14">p. 33</seg>-->
+          <bibl><persName sameAs="people.xml#DOFF">Don Officer</persName>, “<title level="m">Beyond
+              the Point</title>” <!-- Same previous comment for "" --> (review), <title level="j"
+              corresp="periodicals.xml#p157">Books in Canada</title>, January 1982, pp. <seg
+              corresp="#n81.14">15–16</seg></bibl>
+          <bibl><persName sameAs="people.xml#GOXF">Gerry Oxford</persName>, “<title level="a"
+              >Platonic Love</title>” (review), <title level="j" corresp="periodicals.xml#p237"
+              >Quill &amp; Quire</title>, January 1982, pp. <seg corresp="#n81.14"
+            >31–32</seg></bibl>
+          <bibl><persName sameAs="SRUD">Simon Ruddell</persName>, “<title level="a">Street
+              Life</title>” (review), <title level="j" corresp="periodicals.xml#p109">Canadian
+              Literature</title>, no. 95 (1982), pp. <seg corresp="#n81.14">143–44</seg></bibl>
+          <bibl><persName sameAs="people.xml#IYOU">Ian Young</persName>, <title level="m">The Male
+              Homosexual in Literature: A Bibliography</title>, second ed. (Metuchen, N.J.: <orgName
+              corresp="organizations.xml#SP">Scarecrow Press</orgName>, 1982), entry <seg
+              corresp="#n81.14">4013</seg>.</bibl><!-- Seg here? -->
         </event>
         <event xml:id="n81.30">
           <p> January 26 Toronto Lynne Lake, the mother of two schoolchildren, reopened debate on

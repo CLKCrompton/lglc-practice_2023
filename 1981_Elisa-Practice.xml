@@ -62,24 +62,24 @@
       <listEvent n="1981">
        
         <event xml:id="n81.30">
-          <p> <date when="1981-01-26">January 26</date> <placeName corresp="places.xml#TOR">Toronto</placeName> Lynne Lake, the mother of two schoolchildren, reopened debate on
-            sexual orientation bias at the Toronto Board of Education when she made an emotional
+          <p> <date when="1981-01-26">January 26</date> <placeName corresp="places.xml#TOR">Toronto</placeName> <persName sameAs="people.xml#LLAK">Lynne Lake</persName>, the mother of two schoolchildren, reopened debate on
+            sexual orientation bias at the <orgName corresp="organizations.xml#TBE">Toronto Board of Education</orgName> when she made an emotional
             plea to the schools programs committee. Lake demanded that the trustees rescind a motion
-            passed September 18, 1980, which prohibited “bias on the basis of sex or sexual
+            passed <date when="1980-09-18">September 18, 1980</date>, which prohibited “bias on the basis of sex or sexual
             orientation,” and which specifically permitted “discussion of homosexuality” in schools.
-            Lake also claimed that the NDP had been “exploiting the (gay) issue” and that gay
-            activist John Argue, the chairman of the Metro Toronto NDP, had used political pressure
+            Lake also claimed that the <orgName corresp="organizations.xml#NDP">NDP</orgName> had been “exploiting the (gay) issue” and that gay
+            activist <persName sameAs="people.xml#JARG">John Argue</persName>, the chairman of the <orgName corresp="organizations.xml#MTNDP">Metro Toronto NDP</orgName>, had used political pressure
             to swing the vote in favour of the anti-discrimination motion. After some vigorous
             debate, the issue was referred to a special meeting of the full board of education to be
-            held February 23, 1981. (See also February 23, 1981.) </p>
-          <bibl>Rick Brennan, “No Homosexual Lesson for Her Kids,” Toronto Star, four star ed., 17
-            February 1981, p. C18</bibl>
-          <bibl> Virginia Corner, “Homosexual Issue Revived by Mom’s Ire,” Toronto Star, four star
-            ed., 27 January 1981, p. A3</bibl>
-          <bibl> Bruce A. McLeod, “Mom Battles Board Over Stand on Gays,” Toronto Sun, 17 February
-            1981, p. 18</bibl>
-          <bibl> Roger Spalding, “Mother’s Plea to School Board Reopens Debate on Ban on Bias,” Body
-            Politic, no. 71 (1981), p. 13.</bibl>
+            held <date when="1981-02-23">February 23, 1981</date>. (See also <seg corresp="#n81.72">February 23, 1981</seg>.) </p>
+          <bibl><persName sameAs="people.xml#RIBR">Rick Brennan</persName>, <title level="a">“No Homosexual Lesson for Her Kids,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed., 17
+            February 1981, <seg corresp="#n81.30.1">p. C18</seg></bibl>
+          <bibl> <persName sameAs="people.xml#VICO">Virginia Corner</persName>, <title level="a">“Homosexual Issue Revived by Mom’s Ire,”</title> <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star
+            ed., 27 January 1981, <seg corresp="#n81.30.2">p. A3</seg></bibl>
+          <bibl> <persName sameAs="people.xml#BAMC">Bruce A. McLeod</persName>, <title level="a">“Mom Battles Board Over Stand on Gays,”</title> <title level="j" corresp="periodicals.xml#p168">Toronto Sun</title>, 17 February
+            1981, <seg corresp="#n81.30.3">p. 18</seg></bibl>
+          <bibl> <persName sameAs="people.xml#RSPA">Roger Spalding</persName>, <title level="a">“Mother’s Plea to School Board Reopens Debate on Ban on Bias,”</title> <title level="j" corresp="periodicals.xml#p10">Body
+            Politic</title>, no. 71 (1981), <seg corresp="#n81.30.4">p. 13</seg>.</bibl>
 
         </event>
         <event xml:id="n81.35">

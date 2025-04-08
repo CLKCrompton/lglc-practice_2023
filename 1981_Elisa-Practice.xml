@@ -210,14 +210,17 @@
 
         </event>
         <event xml:id="n81.190">
-          <p> May 16–18 Vancouver More than 500 women participated in the fifth Bi-national Lesbian
-            Conference, held at Langara College. The event drew women from across Canada to discuss
-            priorities such as childcare, fighting the Right, and the formation of a national
-            lesbian organization. There were plenary sessions, workshops, an art display (“Woman to
-            Woman,” at the Women in Focus Gallery), and a dance featuring the lesbian rock band Mama
-            Quilla II (with Lorraine Segato). More than 200 women marched in Canada’s first lesbian
-            pride march, from Robson Square through downtown Vancouver to the WECC. A final report,
-            Lesbian Power: Organizing for the 80s, was published after the conference. </p>
+          <p>
+            <date from="1981-05-16" to="1981-05-18">May 16–18</date>
+            <placeName corresp="places.xml#VAN">Vancouver</placeName> More than 500 women
+            participated in the fifth Bi-national Lesbian Conference, held at Langara College. The
+            event drew women from across Canada to discuss priorities such as childcare, fighting
+            the Right, and the formation of a national lesbian organization. There were plenary
+            sessions, workshops, an art display (“Woman to Woman,” at the Women in Focus Gallery),
+            and a dance featuring the lesbian rock band Mama Quilla II (with Lorraine Segato). More
+            than 200 women marched in Canada’s first lesbian pride march, from Robson Square through
+            downtown Vancouver to the WECC. A final report, Lesbian Power: Organizing for the 80s,
+            was published after the conference. </p>
           <bibl>“1981 Bi-national Lesbian Vandykescouver, B.C., Conference!” Lavender Sheets (LOOT),
             Summer 1980, p. (3)</bibl>
           <bibl> “1981 Lesbian Conference,” Gaze, June 1981, p. (4)</bibl>
@@ -240,27 +243,48 @@
 
         </event>
         <event xml:id="n81.223">
-          <p> June 5 Atlanta, Ga. The Centers for Disease Control (CDC) reported that five gay men
-            in Los Angeles had been diagnosed with pneumocystis pneumonia, which was rare and
+          <p>
+            <date when="1981-06-05">June 5</date>
+            <placeName corresp="places.xml#ATL">Atlanta, Ga</placeName>. <orgName
+              corresp="organizations.xml#CDC">The Centers for Disease Control (CDC)</orgName>
+            reported that five gay men in <placeName corresp="places.xml#LOS">Los
+              Angeles</placeName> had been diagnosed with pneumocystis pneumonia, which was rare and
             frequently fatal. This was the first official report from the CDC concerning the health
-            crisis that would later become known as the AIDS pandemic. (See also July 3, 1981.) </p>
-          <bibl>Bill Lewis and Randy Coates, “Moral Lessons</bibl>
-          <bibl> Fatal Cancer,” Body Politic, no. 77 (1981), p. 43</bibl>
-          <bibl> Jacques Pepin, The Origins of AIDS (Cambridge: Cambridge University Press, 2011),
-            293 pp.</bibl>
+            crisis that would later become known as the AIDS pandemic. (See also <seg
+              corresp="#n81.273">July 3, 1981</seg>.) </p>
+          <bibl><persName sameAs="people.xml#BLEW">Bill Lewis</persName> and <persName
+              sameAs="people.xml#RACO">Randy Coates</persName>, <title level="a">“Moral Lessons
+              Fatal Cancer,”</title>
+            <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 77 (1981), <seg
+              corresp="#n81.223.1">p. 43</seg></bibl>
+          <bibl>
+            <persName sameAs="people.xml#JAPE">Jacques Pepin</persName>, <title level="m">The
+              Origins of AIDS</title> (Cambridge: Cambridge University Press, 2011), <seg
+              corresp="#n81.223.2">293 pp</seg>.</bibl>
 
         </event>
         <event xml:id="n81.273">
-          <p> July 3 New York, N.Y. The New York Times published an article by Lawrence K. Altman
-            entitled “Rare Cancer Seen in 41 Homosexuals,” which was subsequently distributed
-            internationally by the New York Times News Service. This was the first major mainstream
-            newspaper article to discuss the health crisis that would eventually become known as the
-            AIDS pandemic. An unnamed Body Politic reporter (likely Randy Coates and/or Bill Lewis)
+          <p>
+            <date when="1981-07-03">July 3</date>
+            <placeName corresp="places.xml#NEW">New York, N.Y.</placeName> The <title level="j"
+              corresp="periodicals.xml#p147">New York Times</title> published an article by
+              <persName sameAs="people.xml#LAKA">Lawrence K. Altman</persName> entitled <title
+              level="a">“Rare Cancer Seen in 41 Homosexuals,”</title> which was subsequently
+            distributed internationally by the New York Times News Service. This was the first major
+            mainstream newspaper article to discuss the health crisis that would eventually become
+            known as the AIDS pandemic. An unnamed <title level="j" corresp="periodicals.xml#p10"
+              >Body Politic</title> reporter (likely <persName sameAs="people.xml#RACO">Randy
+              Coates</persName> and/or <persName sameAs="people.xml#BLEW">Bill Lewis</persName>)
             dismissed the report as being biased and riddled with errors. </p>
-          <bibl>Lawrence K. Altman, “Rare Cancer Seen in 41 Homosexuals,” New York Times, late city
-            ed., 3 July 1981, p. A20</bibl>
-          <bibl> Alain Emmanuel Dreuilhe, “Le cancer gai” (medical column), Le Berdache, no. 24
-            (1981), p. 23</bibl>
+          <bibl><persName sameAs="people.xml#LAKA">Lawrence K. Altman</persName>, <title level="a"
+              >“Rare Cancer Seen in 41 Homosexuals,”</title>
+            <title level="j" corresp="periodicals.xml#p147">New York Times</title>, late city ed., 3
+            July 1981, <seg corresp="#n81.273.1">p. A20</seg></bibl>
+          <bibl>
+            <persName sameAs="people.xml#ALED">Alain Emmanuel Dreuilhe</persName>, <title level="a"
+              >“Le cancer gai”</title> (medical column), <title level="j"
+              corresp="periodicals.xml#p175">Le Berdache</title>, no. 24 (1981), <seg
+              corresp="#n81.273.2">p. 23</seg></bibl>
 
 
         </event>

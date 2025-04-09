@@ -234,8 +234,8 @@
             <title level="a">“1981 Lesbian Conference,”</title>
             <title level="j" corresp="periodicals.xml#p35">Gaze</title>, June 1981, <seg
               corresp="#n81.190.2">p. (4)</seg></bibl>
-          <bibl> 1981 Lesbian Conference Committee, <title level="a">“1981 Lesbian
-              Conference,”</title>
+          <bibl> 1981 Lesbian Conference Committee<!-- EM is it an org? -->, <title level="a">“1981
+              Lesbian Conference,”</title>
             <title level="j" corresp="periodicals.xml#p121">VGCC News</title>, 2, no. 3 (March
             1981): <seg corresp="#n81.190.3">16</seg></bibl>
           <bibl>
@@ -253,6 +253,7 @@
               corresp="#n81.190.6">pp. (5–7)</seg> and <title level="j"
               corresp="periodicals.xml#p35">Gaze</title>, November 1981, <seg corresp="#n81.190.7"
               >pp. (5–7)</seg></bibl>
+          <!-- EM is it one or two <seg> here? -->
           <bibl>
             <persName sameAs="people.xml#MFIT">Maureen FitzGerald</persName> and <persName
               sameAs="people.xml#DAMO">Daphne Morrison</persName>, <title level="a">“Lesbian
@@ -269,7 +270,7 @@
             <persName sameAs="people.xml#DKID">Dorothy Kidd</persName>, <title level="a">“1981
               Lesbian Conference,”</title>
             <title level="j" corresp="periodicals.xml#p121">VGCC News</title>, 2, no. 6 (June 1981):
-            <seg corresp="#n81.190.11">14</seg></bibl>
+              <seg corresp="#n81.190.11">14</seg></bibl>
 
 
         </event>

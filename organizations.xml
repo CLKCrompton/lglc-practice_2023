@@ -6184,10 +6184,6 @@
                     <orgName>The New York Times Service </orgName>
                 </org>
 
-                <org xml:id="CAS">
-                    <!-- EM -->
-                    <orgName>Children’s Aid Society (CAS)</orgName> <!-- does the acronym go inside the orgName? -->
-                </org>
 
                 <org xml:id="SDC">
                     <!-- EM -->
